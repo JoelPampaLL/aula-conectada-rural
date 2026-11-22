@@ -1,0 +1,507 @@
+id_censo,cod_local,ubigeo,anio_censo,n_ie_en_local,declaro_computo,cpu_total,cpu_operativos,cpu_en_reparacion,cpu_mas_3_anios,laptops_xo,tabletas,n_equipos_red,tiene_internet,tipo_internet,fuente_energia,tiene_ups_estabilizador,tiene_pozo_tierra
+T4-00001,009393,160501,2024,1,Sí,10,7,2,6,0,9,0,No,Ninguno,Red pública,Sí,No
+T4-00002,010406,210807,2024,1,Sí,27,20,4,22,0,0,2,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00003,015041,250201,2024,1,Sí,1,1,0,0,9,0,2,Sí,4G / módem móvil,Red pública,No,Sí
+T4-00004,019911,240202,2024,1,Sí,21,14,3,17,0,5,1,Sí,Fibra óptica,Red pública,No,Sí
+T4-00005,023856,160501,2024,1,Sí,0,0,0,0,1,0,6,Sí,Satelital,Grupo electrógeno,No,No
+T4-00006,026587,240104,2024,1,Sí,2,2,0,2,0,4,3,Sí,Radioenlace,Panel solar,No,Sí
+T4-00007,026783,10502,2024,1,Sí,0,0,0,0,5,0,3,Sí,Radioenlace,Panel solar,Sí,No
+T4-00008,027328,250103,2024,1,Sí,7,5,1,5,6,8,0,No,Ninguno,Panel solar,Sí,No
+T4-00009,029108,10601,2024,1,Sí,21,16,2,8,5,13,0,No,Ninguno,Red pública,No,No
+T4-00010,030367,240304,2024,2,Sí,2,1,0,1,1,0,1,Sí,Satelital,Red pública,No,No
+T4-00011,033012,210106,2024,2,Sí,15,11,3,8,4,17,2,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00012,033955,250203,2024,1,Sí,4,3,1,1,0,4,2,No,Ninguno,Red pública,No,No
+T4-00013,039850,10501,2024,1,Sí,0,0,0,0,0,0,2,Sí,Satelital,Sin energía,Sí,No
+T4-00014,041515,210401,2024,2,No,,,,,0,0,3,Sí,Radioenlace,Red pública,Sí,Sí
+T4-00015,043780,210402,2024,2,No,,,,,2,7,2,Sí,4G / módem móvil,Panel solar,No,No
+T4-00016,044817,160501,2024,1,Sí,1,1,0,0,0,0,1,Sí,Fibra óptica,Red pública,No,Sí
+T4-00017,048500,10601,2024,1,Sí,10,9,1,6,0,0,0,Sí,Fibra óptica,Red pública,No,No
+T4-00018,048914,160804,2024,1,No,,,,,0,1,5,Sí,Satelital,Panel solar,No,No
+T4-00019,048971,240104,2024,1,No,,,,,0,2,1,Sí,Fibra óptica,Red pública,No,Sí
+T4-00020,050216,240104,2024,2,Sí,22,18,2,17,4,12,1,No,Ninguno,Red pública,Sí,Sí
+T4-00021,054350,250401,2024,1,Sí,8,4,2,3,0,0,2,No,Ninguno,Red pública,Sí,Sí
+T4-00022,055933,240201,2024,2,Sí,29,26,1,21,2,17,4,Sí,No registra,Red pública,Sí,No
+T4-00023,059409,160102,2024,1,Sí,0,0,0,0,7,5,0,No,Ninguno,Red pública,Sí,Sí
+T4-00024,059818,10503,2024,1,Sí,3,2,0,2,0,0,3,Sí,Satelital,Sin energía,Sí,No
+T4-00025,065541,160806,2024,1,Sí,7,3,2,3,0,10,0,No,Ninguno,Sin energía,No,No
+T4-00026,068580,160202,2024,1,Sí,1,1,0,1,3,8,2,No,Ninguno,Sin energía,No,No
+T4-00027,069876,250105,2024,1,Sí,13,10,1,11,0,0,1,No,Ninguno,Red pública,No,Sí
+T4-00028,071931,10103,2024,2,Sí,7,7,0,2,0,4,0,No,Ninguno,Red pública,No,Sí
+T4-00029,079661,250105,2024,2,Sí,18,14,1,9,9,13,2,Sí,Fibra óptica,Red pública,Sí,No
+T4-00030,079793,10103,2024,1,Sí,8,7,1,3,0,0,0,No,Ninguno,Panel solar,No,Sí
+T4-00031,098752,10101,2024,1,No,,,,,0,0,1,Sí,Fibra óptica,Red pública,No,No
+T4-00032,102268,250102,2024,1,Sí,0,0,0,0,0,2,0,No,Ninguno,Red pública,No,No
+T4-00033,107630,210402,2024,1,Sí,9,8,0,7,0,1,1,Sí,Satelital,Red pública,No,No
+T4-00034,119274,250201,2024,1,Sí,1,2,0,0,0,5,0,No,Ninguno,Red pública,No,No
+T4-00035,123193,10205,2024,1,Sí,3,2,1,2,6,3,0,No,Ninguno,Grupo electrógeno,Sí,Sí
+T4-00036,126864,210103,2024,1,Sí,5,3,1,4,0,4,0,No,Ninguno,Red pública,No,No
+T4-00037,127294,250203,2024,1,No,,,,,0,7,0,No,Ninguno,Grupo electrógeno,Sí,Sí
+T4-00038,127954,210401,2024,1,Sí,19,15,3,10,0,10,2,Sí,Fibra óptica,Red pública,No,Sí
+T4-00039,130068,210401,2024,1,Sí,2,1,0,1,0,0,0,No,Ninguno,Red pública,No,Sí
+T4-00040,131668,240304,2024,1,No,,,,,4,7,3,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00041,132969,210106,2024,1,Sí,2,1,0,2,0,1,4,Sí,Radioenlace,Red pública,Sí,No
+T4-00042,138753,160201,2024,2,Sí,9,6,1,6,5,0,1,No,Ninguno,Red pública,No,No
+T4-00043,139255,160103,2024,1,Sí,5,4,0,2,0,0,3,Sí,Radioenlace,Grupo electrógeno,No,Sí
+T4-00044,141834,250104,2024,1,Sí,5,5,0,3,0,14,1,Sí,Radioenlace,Grupo electrógeno,No,No
+T4-00045,158020,250102,2024,1,No,,,,,8,1,0,No,Ninguno,Panel solar,No,Sí
+T4-00046,158612,250303,2024,1,Sí,3,2,1,3,0,3,4,Sí,Fibra óptica,Red pública,No,Sí
+T4-00047,164178,160113,2024,2,Sí,17,13,2,11,0,10,0,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00048,165239,240201,2024,1,Sí,6,5,1,4,3,0,2,Sí,4G / módem móvil,Red pública,No,No
+T4-00049,167556,240301,2024,1,Sí,1,1,0,1,9,4,3,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00050,167902,250103,2024,1,No,,,,,7,1,0,No,Ninguno,Panel solar,No,No
+T4-00051,168311,160801,2024,1,Sí,1,1,0,1,0,3,2,Sí,Satelital,Panel solar,No,No
+T4-00052,181632,10103,2024,1,Sí,3,2,1,3,2,1,3,Sí,Satelital,Red pública,Sí,No
+T4-00053,185557,160202,2024,2,Sí,5,3,1,3,0,0,0,Sí,Satelital,Grupo electrógeno,No,No
+T4-00054,190070,240201,2024,1,Sí,6,6,0,5,0,2,0,No,Ninguno,Red pública,Sí,No
+T4-00055,192434,210106,2024,1,Sí,14,12,1,10,0,0,2,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00056,196575,160102,2024,2,Sí,0,0,0,0,0,5,0,No,Ninguno,Grupo electrógeno,No,No
+T4-00057,211755,160803,2024,1,Sí,3,2,0,1,0,4,0,No,Ninguno,Grupo electrógeno,No,Sí
+T4-00058,215361,10502,2024,1,Sí,1,1,0,0,1,1,0,No,Ninguno,Grupo electrógeno,No,Sí
+T4-00059,215617,10205,2024,1,Sí,4,3,0,2,0,4,1,Sí,Radioenlace,Panel solar,No,Sí
+T4-00060,221693,210103,2024,1,Sí,1,1,0,1,2,0,0,No,Ninguno,Panel solar,Sí,Sí
+T4-00061,221828,10503,2024,2,Sí,8,6,1,7,0,0,5,Sí,Satelital,Panel solar,No,No
+T4-00062,227848,160102,2024,1,Sí,1,1,0,1,6,1,2,Sí,Satelital,Grupo electrógeno,Sí,No
+T4-00063,230443,210402,2024,1,Sí,0,0,0,0,8,0,0,No,Ninguno,Red pública,Sí,Sí
+T4-00064,232786,160206,2024,1,Sí,1,1,0,1,0,4,1,No,No registra,Sin energía,Sí,Sí
+T4-00065,235248,210106,2024,1,No,,,,,0,0,1,No,Ninguno,Panel solar,No,Sí
+T4-00066,236835,250201,2024,2,Sí,0,0,0,0,4,0,0,Sí,Satelital,Red pública,No,No
+T4-00067,236902,10601,2024,1,No,,,,,0,0,5,Sí,4G / módem móvil,Panel solar,No,No
+T4-00068,240446,210103,2024,1,No,,,,,0,11,3,Sí,Satelital,Panel solar,Sí,No
+T4-00069,242722,250202,2024,1,Sí,9,6,1,6,3,0,1,Sí,Radioenlace,Panel solar,Sí,No
+T4-00070,250219,160113,2024,1,Sí,7,5,1,3,7,0,0,No,Ninguno,Sin energía,Sí,No
+T4-00071,256485,10502,2024,2,Sí,6,5,1,5,6,8,0,No,Ninguno,Red pública,Sí,No
+T4-00072,261157,210506,2024,1,Sí,14,11,2,6,0,10,5,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00073,261516,250203,2024,1,Sí,3,2,1,3,4,0,0,No,Ninguno,Sin energía,No,No
+T4-00074,263314,250202,2024,1,No,,,,,0,0,2,Sí,Radioenlace,Panel solar,Sí,No
+T4-00075,264641,240301,2024,1,Sí,8,7,0,5,4,0,1,No,Ninguno,Red pública,No,No
+T4-00076,273978,160801,2024,1,Sí,0,0,0,0,0,13,0,No,Ninguno,Red pública,Sí,Sí
+T4-00077,274607,240201,2024,1,Sí,7,6,1,5,0,0,0,No,Ninguno,Red pública,Sí,No
+T4-00078,282133,250301,2024,1,No,,,,,7,6,0,No,Ninguno,Red pública,No,No
+T4-00079,282569,160201,2024,1,Sí,10,8,1,7,0,16,3,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00080,283844,250304,2024,1,Sí,9,10,0,6,4,3,0,No,Ninguno,Red pública,No,No
+T4-00081,284727,160801,2024,2,No,,,,,8,18,5,Sí,Satelital,Panel solar,No,No
+T4-00082,285680,240202,2024,1,No,,,,,0,1,0,No,Ninguno,Red pública,No,Sí
+T4-00083,286973,210501,2024,1,No,,,,,0,0,0,No,Ninguno,Red pública,No,Sí
+T4-00084,289174,160102,2024,1,Sí,6,4,1,3,5,0,0,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00085,290615,210506,2024,1,Sí,1,1,0,0,0,0,0,No,Ninguno,Red pública,No,No
+T4-00086,302097,210501,2024,2,Sí,9,7,1,5,7,7,0,No,Ninguno,Red pública,No,No
+T4-00087,306201,10205,2024,1,Sí,20,16,2,10,0,0,0,No,Ninguno,Red pública,No,Sí
+T4-00088,307903,250102,2024,1,Sí,8,7,0,6,0,7,0,Sí,Satelital,Red pública,Sí,No
+T4-00089,308407,160804,2024,1,No,,,,,6,0,1,No,Ninguno,Red pública,No,Sí
+T4-00090,310111,160803,2024,1,Sí,5,4,1,2,7,0,1,No,Ninguno,Red pública,Sí,No
+T4-00091,311726,240201,2024,1,Sí,11,9,1,5,0,11,1,No,Ninguno,Sin energía,No,Sí
+T4-00092,313828,160801,2024,1,Sí,13,9,2,10,0,0,0,No,Ninguno,Red pública,Sí,Sí
+T4-00093,319208,250201,2024,1,Sí,2,1,1,1,4,0,1,Sí,Satelital,Sin energía,No,No
+T4-00094,320290,210506,2024,1,Sí,3,2,1,1,0,0,1,Sí,No registra,Red pública,No,No
+T4-00095,328169,10601,2024,1,Sí,5,5,0,4,7,2,1,Sí,Radioenlace,Red pública,No,No
+T4-00096,330719,210506,2024,1,Sí,1,1,0,0,0,2,1,No,Ninguno,Red pública,No,Sí
+T4-00097,339712,250303,2024,1,Sí,4,3,0,3,5,7,0,No,Ninguno,Red pública,No,Sí
+T4-00098,342053,240202,2024,1,Sí,3,3,0,3,0,3,0,Sí,No registra,Red pública,No,No
+T4-00099,361207,160201,2024,1,Sí,0,0,0,0,6,0,1,Sí,Satelital,Red pública,Sí,No
+T4-00100,362338,160806,2024,1,Sí,1,1,0,1,0,2,0,Sí,Satelital,Red pública,No,No
+T4-00101,366369,10503,2024,1,No,,,,,0,4,0,No,Ninguno,Red pública,No,No
+T4-00102,369675,240105,2024,1,No,,,,,0,19,0,No,Ninguno,Red pública,No,Sí
+T4-00103,370769,250104,2024,1,Sí,0,0,0,0,0,1,5,Sí,Satelital,Sin energía,No,Sí
+T4-00104,378949,210105,2024,1,Sí,24,17,2,9,7,12,3,Sí,Radioenlace,Panel solar,Sí,No
+T4-00105,380629,250102,2024,1,Sí,5,4,0,4,0,6,1,Sí,4G / módem móvil,Panel solar,No,Sí
+T4-00106,385639,240104,2024,1,Sí,11,9,1,5,0,0,0,No,Ninguno,Panel solar,Sí,No
+T4-00107,385955,210106,2024,1,No,,,,,0,27,4,Sí,Fibra óptica,Red pública,No,Sí
+T4-00108,387215,250203,2024,2,Sí,0,0,0,0,4,10,0,No,Ninguno,Red pública,No,No
+T4-00109,391676,210807,2024,1,No,,,,,0,24,0,No,Ninguno,Red pública,Sí,Sí
+T4-00110,397470,250103,2024,1,Sí,2,1,1,2,0,2,0,Sí,Satelital,Panel solar,Sí,Sí
+T4-00111,408099,240301,2024,2,Sí,15,10,3,7,8,9,4,Sí,Radioenlace,Red pública,Sí,No
+T4-00112,411065,160803,2024,1,Sí,1,1,0,1,0,4,1,Sí,Radioenlace,Grupo electrógeno,No,Sí
+T4-00113,419731,250203,2024,1,Sí,6,4,1,4,0,9,3,Sí,Satelital,Grupo electrógeno,Sí,Sí
+T4-00114,420590,10201,2024,1,Sí,10,7,1,8,7,4,2,Sí,Radioenlace,Red pública,Sí,No
+T4-00115,424475,250304,2024,1,Sí,32,22,6,23,0,0,2,Sí,Fibra óptica,Red pública,Sí,No
+T4-00116,433803,10601,2024,2,Sí,42,31,4,22,7,27,0,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00117,441130,250104,2024,1,Sí,0,0,0,0,0,0,3,Sí,Radioenlace,Panel solar,No,No
+T4-00118,441214,210103,2024,1,Sí,1,1,0,1,0,3,2,Sí,Satelital,Sin energía,Sí,No
+T4-00119,442528,210105,2024,2,Sí,0,0,0,0,2,7,1,No,Ninguno,Panel solar,Sí,No
+T4-00120,445514,160806,2024,1,Sí,0,0,0,0,0,2,0,No,Ninguno,Sin energía,No,No
+T4-00121,447926,210105,2024,1,Sí,7,6,1,3,0,5,1,No,No registra,Grupo electrógeno,Sí,Sí
+T4-00122,449072,250202,2024,1,Sí,9,7,1,6,0,13,0,No,Ninguno,Grupo electrógeno,No,Sí
+T4-00123,452438,10501,2024,1,Sí,1,1,0,1,5,3,0,No,Ninguno,Panel solar,No,No
+T4-00124,452734,10501,2024,1,Sí,1,1,0,1,6,0,3,Sí,Radioenlace,Red pública,No,No
+T4-00125,457032,160113,2024,1,Sí,7,6,0,4,8,8,1,Sí,Fibra óptica,Panel solar,Sí,No
+T4-00126,465907,250204,2024,1,Sí,3,2,1,2,0,0,0,No,Ninguno,Panel solar,No,No
+T4-00127,466662,160113,2024,1,Sí,1,1,0,0,6,2,1,Sí,Radioenlace,Red pública,No,No
+T4-00128,468904,250304,2024,1,Sí,0,0,0,0,0,0,0,No,Ninguno,Red pública,No,Sí
+T4-00129,471342,10503,2024,1,Sí,0,0,0,0,0,1,0,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00130,476536,250304,2024,2,Sí,20,16,2,16,0,9,0,No,Ninguno,Red pública,Sí,Sí
+T4-00131,480910,160113,2024,1,Sí,9,6,1,7,0,2,3,Sí,Fibra óptica,Red pública,No,Sí
+T4-00132,481060,240105,2024,1,Sí,13,13,0,7,2,9,0,No,Ninguno,Red pública,Sí,No
+T4-00133,490586,10501,2024,1,Sí,0,0,0,0,0,3,1,No,Ninguno,Sin energía,No,No
+T4-00134,499252,160803,2024,1,Sí,0,0,0,0,3,2,2,Sí,Satelital,Grupo electrógeno,Sí,No
+T4-00135,501838,250104,2024,1,No,,,,,0,6,0,Sí,Radioenlace,Red pública,Sí,No
+T4-00136,503894,240104,2024,1,Sí,0,0,0,0,0,0,2,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00137,511124,250105,2024,1,Sí,5,4,0,3,0,2,0,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00138,514117,160806,2024,1,Sí,1,1,0,1,5,1,0,No,Ninguno,Sin energía,No,No
+T4-00139,516459,250303,2024,1,Sí,9,6,1,5,0,13,0,No,Ninguno,Panel solar,No,Sí
+T4-00140,518627,10201,2024,1,Sí,20,19,1,9,0,0,0,No,Ninguno,Red pública,No,Sí
+T4-00141,527949,160206,2024,1,Sí,0,0,0,0,0,5,1,Sí,Satelital,Red pública,No,No
+T4-00142,528762,210105,2024,1,Sí,3,2,1,2,0,0,1,No,Ninguno,Red pública,Sí,No
+T4-00143,529223,210806,2024,1,Sí,6,5,1,3,0,0,0,No,Ninguno,Red pública,Sí,No
+T4-00144,530843,240202,2024,1,Sí,4,3,1,2,7,1,0,No,Ninguno,Red pública,No,No
+T4-00145,537050,250104,2024,1,Sí,0,0,0,0,4,11,1,No,Ninguno,Red pública,Sí,No
+T4-00146,537853,240105,2024,2,Sí,27,21,3,12,0,11,0,No,Ninguno,Red pública,Sí,No
+T4-00147,543206,10201,2024,2,Sí,16,16,0,9,6,11,2,Sí,Radioenlace,Red pública,No,No
+T4-00148,544063,160804,2024,1,Sí,10,9,0,5,0,6,2,Sí,Radioenlace,Red pública,No,No
+T4-00149,544264,160206,2024,2,Sí,0,0,0,0,3,0,2,No,Ninguno,Sin energía,No,No
+T4-00150,545150,10205,2024,1,Sí,1,1,0,1,0,1,0,Sí,Satelital,Panel solar,No,Sí
+T4-00151,545209,210806,2024,1,Sí,6,4,1,4,3,4,5,Sí,4G / módem móvil,Sin energía,Sí,No
+T4-00152,548180,10503,2024,1,Sí,0,0,0,0,0,0,0,No,Ninguno,Sin energía,No,Sí
+T4-00153,553054,160102,2024,1,No,,,,,0,2,1,Sí,Fibra óptica,Red pública,No,No
+T4-00154,557009,210402,2024,1,Sí,13,10,2,10,0,9,0,No,Ninguno,Red pública,No,Sí
+T4-00155,557761,210506,2024,2,No,,,,,0,0,0,No,Ninguno,Panel solar,No,No
+T4-00156,558876,250103,2024,2,No,,,,,0,23,1,Sí,Radioenlace,Red pública,Sí,No
+T4-00157,559574,240105,2024,1,Sí,6,5,1,3,0,0,1,Sí,Radioenlace,Red pública,No,No
+T4-00158,571099,160103,2024,2,Sí,0,0,0,0,4,11,2,Sí,Fibra óptica,Red pública,No,Sí
+T4-00159,582301,10601,2024,1,Sí,21,16,2,12,4,9,1,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00160,584566,210807,2024,2,Sí,8,6,1,3,3,7,1,No,Ninguno,Red pública,Sí,No
+T4-00161,589470,160206,2024,1,Sí,13,8,2,6,4,8,1,Sí,4G / módem móvil,Grupo electrógeno,No,Sí
+T4-00162,591798,210103,2024,2,Sí,34,25,5,15,6,34,4,Sí,Radioenlace,Red pública,Sí,Sí
+T4-00163,596798,160103,2024,1,Sí,2,1,0,1,0,4,2,Sí,Radioenlace,Grupo electrógeno,No,Sí
+T4-00164,603544,10201,2024,1,Sí,7,6,1,5,0,0,1,Sí,Radioenlace,Red pública,Sí,No
+T4-00165,614454,160202,2024,1,Sí,0,0,0,0,4,2,1,No,Ninguno,Sin energía,No,Sí
+T4-00166,620413,250102,2024,2,No,,,,,7,0,3,Sí,Fibra óptica,Red pública,No,Sí
+T4-00167,623148,210105,2024,1,Sí,4,3,1,4,1,0,0,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00168,627989,160501,2024,1,Sí,3,2,1,2,0,6,0,No,Ninguno,Panel solar,No,No
+T4-00169,628640,210401,2024,1,Sí,0,0,0,0,4,0,2,Sí,Fibra óptica,Panel solar,Sí,Sí
+T4-00170,638324,160113,2024,1,No,,,,,0,18,1,No,Ninguno,Red pública,Sí,No
+T4-00171,639251,210807,2024,1,No,,,,,0,0,1,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00172,639851,160806,2024,2,Sí,0,0,0,0,0,0,1,No,Ninguno,Grupo electrógeno,Sí,Sí
+T4-00173,646625,160803,2024,2,Sí,0,0,0,0,4,0,4,Sí,Satelital,Grupo electrógeno,No,No
+T4-00174,646850,160801,2024,1,No,,,,,5,4,0,No,Ninguno,Panel solar,Sí,No
+T4-00175,650312,250201,2024,1,No,,,,,0,5,1,Sí,Radioenlace,Grupo electrógeno,Sí,No
+T4-00176,661491,250301,2024,1,Sí,4,3,0,2,0,7,3,Sí,Satelital,Red pública,Sí,Sí
+T4-00177,662289,10201,2024,1,Sí,7,5,1,4,0,0,2,Sí,No registra,Red pública,Sí,No
+T4-00178,668450,250204,2024,2,Sí,6,4,1,3,0,8,0,No,Ninguno,Panel solar,No,No
+T4-00179,679935,210806,2024,1,Sí,1,1,0,1,0,0,3,Sí,Radioenlace,Red pública,No,Sí
+T4-00180,680664,210501,2024,1,No,,,,,0,0,0,Sí,Radioenlace,Red pública,Sí,No
+T4-00181,681874,10502,2024,1,Sí,5,4,1,4,0,0,0,No,Ninguno,Sin energía,Sí,Sí
+T4-00182,683546,160501,2024,2,Sí,11,9,1,6,3,0,1,No,Ninguno,Red pública,No,No
+T4-00183,703290,240301,2024,1,Sí,2,2,0,2,0,1,5,Sí,Radioenlace,Red pública,Sí,Sí
+T4-00184,704711,250103,2024,1,Sí,6,5,1,3,0,0,0,No,Ninguno,Red pública,Sí,No
+T4-00185,708023,240301,2024,1,Sí,4,4,0,2,3,2,9,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00186,708128,240304,2024,1,Sí,13,12,0,9,0,7,1,Sí,Fibra óptica,Red pública,Sí,No
+T4-00187,716125,160103,2024,1,No,,,,,0,0,0,Sí,4G / módem móvil,Panel solar,No,No
+T4-00188,723108,210105,2024,1,Sí,1,1,0,1,0,0,0,No,Ninguno,Red pública,No,No
+T4-00189,724395,250105,2024,1,Sí,0,0,0,0,0,0,1,No,Ninguno,Red pública,No,No
+T4-00190,733263,210106,2024,1,No,,,,,1,0,4,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00191,733558,210401,2024,1,No,,,,,0,6,1,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00192,734906,210807,2024,1,Sí,7,3,1,4,0,4,0,No,Ninguno,Red pública,Sí,No
+T4-00193,743256,210501,2024,1,Sí,1,1,0,1,10,3,1,No,Ninguno,Grupo electrógeno,No,Sí
+T4-00194,746929,240304,2024,1,Sí,3,2,1,3,0,3,3,Sí,4G / módem móvil,Panel solar,Sí,No
+T4-00195,749653,10501,2024,2,Sí,4,3,1,2,0,5,1,Sí,Satelital,Panel solar,Sí,No
+T4-00196,751389,210506,2024,1,Sí,3,2,0,3,5,2,4,Sí,Satelital,Panel solar,No,No
+T4-00197,753938,210806,2024,1,Sí,6,5,0,4,0,2,1,Sí,Radioenlace,Red pública,No,No
+T4-00198,760674,160201,2024,1,Sí,17,14,1,10,0,0,1,No,Ninguno,Red pública,Sí,No
+T4-00199,762813,10205,2024,1,Sí,0,0,0,0,2,3,2,Sí,Radioenlace,Grupo electrógeno,Sí,No
+T4-00200,769599,250204,2024,1,Sí,5,4,0,3,0,0,0,Sí,Satelital,Red pública,Sí,No
+T4-00201,772153,210402,2024,1,Sí,0,0,0,0,1,3,4,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00202,786059,160201,2024,1,No,,,,,0,8,0,No,Ninguno,Red pública,No,No
+T4-00203,790753,160201,2024,1,Sí,0,0,0,0,0,0,1,Sí,Satelital,Red pública,No,Sí
+T4-00204,792594,250401,2024,1,No,,,,,7,1,2,Sí,Satelital,Red pública,Sí,Sí
+T4-00205,800598,210103,2024,1,Sí,0,0,0,0,2,3,0,No,Ninguno,Red pública,No,Sí
+T4-00206,802414,10205,2024,2,Sí,0,0,0,0,5,7,0,No,Ninguno,Red pública,No,No
+T4-00207,802549,160501,2024,1,Sí,5,3,1,4,0,0,0,No,Ninguno,Sin energía,Sí,No
+T4-00208,805258,250301,2024,1,Sí,14,12,1,10,0,0,1,Sí,Fibra óptica,Red pública,No,No
+T4-00209,810799,250204,2024,1,Sí,0,0,0,0,0,0,3,Sí,Radioenlace,Sin energía,Sí,No
+T4-00210,812654,250303,2024,1,Sí,9,8,0,3,0,4,0,No,Ninguno,Panel solar,No,No
+T4-00211,815331,250202,2024,1,Sí,1,1,0,1,2,0,0,No,Ninguno,Sin energía,Sí,No
+T4-00212,825670,10101,2024,1,Sí,10,8,1,7,7,5,1,Sí,Satelital,Red pública,Sí,No
+T4-00213,837348,210501,2024,1,Sí,4,3,0,2,5,0,3,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00214,837977,160202,2024,1,Sí,1,1,0,0,0,9,2,Sí,Radioenlace,Grupo electrógeno,Sí,Sí
+T4-00215,838099,250401,2024,2,Sí,5,3,1,2,0,9,0,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00216,838835,10101,2024,1,No,,,,,6,0,3,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00217,839974,10101,2024,1,Sí,17,12,3,8,0,12,0,No,Ninguno,Panel solar,Sí,Sí
+T4-00218,854220,250104,2024,2,No,,,,,0,0,5,Sí,Fibra óptica,Red pública,No,No
+T4-00219,855079,240202,2024,2,Sí,0,0,0,0,5,3,1,Sí,Satelital,Sin energía,Sí,No
+T4-00220,855485,250303,2024,2,Sí,0,0,0,0,7,11,6,Sí,Radioenlace,Sin energía,Sí,Sí
+T4-00221,856736,160202,2024,1,Sí,0,0,0,0,0,4,1,Sí,Satelital,Red pública,Sí,No
+T4-00222,859788,250301,2024,1,Sí,7,7,0,3,0,5,0,No,Ninguno,Red pública,Sí,Sí
+T4-00223,860742,10103,2024,1,Sí,0,0,0,0,0,1,1,No,Ninguno,Red pública,Sí,Sí
+T4-00224,863720,10501,2024,1,Sí,0,0,0,0,0,0,0,Sí,Radioenlace,Panel solar,No,No
+T4-00225,865939,10101,2024,2,Sí,16,16,0,14,1,14,0,No,Ninguno,Red pública,No,No
+T4-00226,868829,250201,2024,1,Sí,11,7,2,6,0,0,1,No,Ninguno,Red pública,No,No
+T4-00227,870317,210806,2024,2,Sí,9,6,2,5,8,9,0,No,Ninguno,Red pública,No,No
+T4-00228,873457,250105,2024,1,Sí,9,7,1,6,0,0,2,No,Ninguno,Grupo electrógeno,No,No
+T4-00229,876756,250304,2024,1,Sí,5,4,1,3,3,3,0,No,Ninguno,Red pública,Sí,Sí
+T4-00230,892028,160801,2024,1,Sí,2,1,0,1,6,1,0,No,Ninguno,Red pública,Sí,Sí
+T4-00231,895320,240105,2024,1,Sí,0,0,0,0,6,7,1,Sí,4G / módem móvil,Sin energía,Sí,Sí
+T4-00232,895438,160103,2024,1,Sí,21,15,3,17,6,11,1,No,Ninguno,Red pública,Sí,No
+T4-00233,897285,210401,2024,1,No,,,,,0,9,0,No,Ninguno,Red pública,No,No
+T4-00234,902907,160202,2024,1,Sí,0,0,0,0,0,0,0,No,Ninguno,Panel solar,Sí,No
+T4-00235,906964,250204,2024,1,No,,,,,0,7,5,Sí,Satelital,Grupo electrógeno,Sí,No
+T4-00236,907877,250301,2024,2,No,,,,,4,17,1,No,Ninguno,Red pública,No,Sí
+T4-00237,910250,10103,2024,1,Sí,1,1,0,1,4,2,4,Sí,Satelital,Panel solar,Sí,No
+T4-00238,914506,210402,2024,1,No,,,,,0,7,0,No,Ninguno,Panel solar,No,No
+T4-00239,920386,210806,2024,1,Sí,6,5,0,4,6,0,2,Sí,Radioenlace,Panel solar,Sí,Sí
+T4-00240,928727,250105,2024,2,No,,,,,0,26,0,No,Ninguno,Red pública,No,No
+T4-00241,933560,160206,2024,1,No,,,,,5,3,4,Sí,Radioenlace,Red pública,Sí,No
+T4-00242,951921,250202,2024,2,Sí,12,7,3,9,5,0,4,Sí,4G / módem móvil,Grupo electrógeno,No,No
+T4-00243,958993,160803,2024,1,No,,,,,4,1,5,Sí,Satelital,Panel solar,No,Sí
+T4-00244,960039,10101,2024,1,Sí,3,3,0,2,8,2,3,Sí,4G / módem móvil,Grupo electrógeno,Sí,No
+T4-00245,962586,10201,2024,1,Sí,1,1,0,0,0,0,1,Sí,4G / módem móvil,Red pública,No,No
+T4-00246,965568,160804,2024,1,Sí,0,0,0,0,0,10,1,No,Ninguno,Panel solar,No,Sí
+T4-00247,969684,240304,2024,1,Sí,9,9,0,4,0,0,1,Sí,Satelital,Red pública,No,No
+T4-00248,974689,160804,2024,2,Sí,3,2,1,2,5,6,0,No,Ninguno,Sin energía,No,No
+T4-00249,982950,160206,2024,1,Sí,3,2,1,2,0,3,0,No,Ninguno,Panel solar,No,No
+T4-00250,983483,10502,2024,1,Sí,6,4,1,4,3,0,0,No,Ninguno,Grupo electrógeno,No,No
+T4-00251,986842,210807,2024,1,Sí,30,30,0,11,0,9,2,Sí,Fibra óptica,Red pública,Sí,No
+T4-00252,992747,250103,2024,1,Sí,3,3,0,2,0,0,4,Sí,Satelital,Grupo electrógeno,No,Sí
+T4-00253,996125,210501,2024,1,No,,,,,0,0,2,No,Ninguno,Red pública,Sí,No
+T4-00254,009393,160501,2025,1,Sí,10,8,1,8,0,0,0,No,Ninguno,Red pública,Sí,No
+T4-00255,010406,210807,2025,1,Sí,27,24,2,20,0,0,1,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00256,015041,250201,2025,1,Sí,1,1,0,1,8,3,2,Sí,4G / módem móvil,Red pública,No,No
+T4-00257,019911,240202,2025,1,No,,,,,0,16,1,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00258,023856,160501,2025,1,No,,,,,7,0,0,Sí,Satelital,Grupo electrógeno,No,No
+T4-00259,026587,240104,2025,1,Sí,2,2,0,2,2,5,1,Sí,Radioenlace,Panel solar,Sí,Sí
+T4-00260,026783,10502,2025,1,Sí,0,0,0,0,0,1,1,Sí,Radioenlace,Panel solar,Sí,No
+T4-00261,027328,250103,2025,1,Sí,8,5,2,4,3,7,0,No,Ninguno,Panel solar,No,Sí
+T4-00262,029108,10601,2025,1,Sí,22,18,2,13,8,0,0,No,Ninguno,Red pública,No,No
+T4-00263,030367,240304,2025,2,Sí,2,1,1,1,1,8,0,Sí,No registra,Red pública,Sí,No
+T4-00264,033012,210106,2025,2,Sí,16,11,2,6,4,15,3,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00265,033955,250203,2025,1,Sí,2,1,1,1,0,2,0,No,Ninguno,Red pública,Sí,Sí
+T4-00266,039850,10501,2025,1,Sí,0,0,0,0,0,4,3,Sí,Satelital,Sin energía,Sí,Sí
+T4-00267,041515,210401,2025,2,Sí,34,22,5,21,2,24,5,Sí,Radioenlace,Red pública,Sí,Sí
+T4-00268,043780,210402,2025,2,No,,,,,6,5,2,Sí,4G / módem móvil,Panel solar,No,No
+T4-00269,044817,160501,2025,1,Sí,6,4,1,2,6,2,3,Sí,Fibra óptica,Red pública,Sí,No
+T4-00270,048500,10601,2025,1,Sí,9,6,1,3,0,0,3,Sí,Fibra óptica,Red pública,Sí,No
+T4-00271,048914,160804,2025,1,Sí,0,0,0,0,0,0,3,Sí,Satelital,Panel solar,No,Sí
+T4-00272,048971,240104,2025,1,Sí,5,4,1,4,0,4,2,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00273,050216,240104,2025,2,Sí,20,13,3,18,3,17,0,No,Ninguno,Red pública,No,No
+T4-00274,054350,250401,2025,1,Sí,6,3,1,4,0,0,0,No,Ninguno,Red pública,Sí,No
+T4-00275,055933,240201,2025,2,Sí,30,22,3,27,0,0,2,Sí,Fibra óptica,Red pública,No,Sí
+T4-00276,059409,160102,2025,1,No,,,,,6,2,1,No,Ninguno,Red pública,Sí,No
+T4-00277,059818,10503,2025,1,Sí,3,2,0,3,4,0,1,Sí,Satelital,Sin energía,No,Sí
+T4-00278,065541,160806,2025,1,Sí,9,6,1,6,7,14,0,No,Ninguno,Sin energía,No,No
+T4-00279,068580,160202,2025,1,Sí,0,0,0,0,1,3,0,No,Ninguno,Sin energía,Sí,No
+T4-00280,069876,250105,2025,1,No,,,,,0,7,0,No,Ninguno,Red pública,Sí,Sí
+T4-00281,071931,10103,2025,2,Sí,8,7,0,4,9,0,2,Sí,Radioenlace,Red pública,Sí,No
+T4-00282,079661,250105,2025,2,Sí,18,15,2,7,5,5,1,Sí,Fibra óptica,Red pública,No,No
+T4-00283,079793,10103,2025,1,Sí,9,7,1,8,0,3,0,No,Ninguno,Panel solar,No,No
+T4-00284,098752,10101,2025,1,Sí,14,11,2,10,5,11,1,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00285,102268,250102,2025,1,Sí,0,0,0,0,0,0,0,No,Ninguno,Red pública,No,No
+T4-00286,107630,210402,2025,1,Sí,9,7,1,7,0,10,1,Sí,Satelital,Red pública,Sí,No
+T4-00287,119274,250201,2025,1,Sí,2,1,1,2,6,3,1,No,Ninguno,Red pública,Sí,No
+T4-00288,123193,10205,2025,1,Sí,3,2,1,1,7,0,2,No,Ninguno,Grupo electrógeno,No,No
+T4-00289,126864,210103,2025,1,Sí,7,6,0,6,0,7,0,No,Ninguno,Red pública,Sí,No
+T4-00290,127294,250203,2025,1,Sí,5,4,0,2,0,1,0,No,Ninguno,Grupo electrógeno,No,Sí
+T4-00291,127954,210401,2025,1,No,,,,,0,0,1,Sí,Fibra óptica,Red pública,No,Sí
+T4-00292,130068,210401,2025,1,Sí,4,3,1,3,4,3,1,No,Ninguno,Red pública,No,Sí
+T4-00293,131668,240304,2025,1,Sí,9,7,1,5,6,8,1,Sí,4G / módem móvil,Red pública,No,Sí
+T4-00294,132969,210106,2025,1,Sí,2,1,0,1,7,3,2,Sí,Radioenlace,Red pública,No,No
+T4-00295,138753,160201,2025,2,Sí,8,7,1,5,7,10,0,No,Ninguno,Red pública,Sí,No
+T4-00296,139255,160103,2025,1,Sí,6,6,0,5,0,0,1,Sí,Radioenlace,Grupo electrógeno,Sí,No
+T4-00297,141834,250104,2025,1,Sí,5,4,0,4,0,9,1,Sí,Radioenlace,Grupo electrógeno,No,No
+T4-00298,158020,250102,2025,1,Sí,1,1,0,1,6,1,0,Sí,Radioenlace,Panel solar,No,No
+T4-00299,158612,250303,2025,1,Sí,2,1,1,1,0,0,3,Sí,Fibra óptica,Red pública,Sí,No
+T4-00300,164178,160113,2025,2,Sí,22,16,4,15,3,10,3,Sí,4G / módem móvil,Grupo electrógeno,Sí,No
+T4-00301,165239,240201,2025,1,Sí,6,3,1,4,3,0,0,Sí,4G / módem móvil,Red pública,No,Sí
+T4-00302,167556,240301,2025,1,Sí,2,2,0,2,0,1,1,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00303,167902,250103,2025,1,No,,,,,0,0,0,No,Ninguno,Panel solar,No,No
+T4-00304,168311,160801,2025,1,Sí,6,3,2,4,6,1,2,Sí,Satelital,Panel solar,Sí,No
+T4-00305,181632,10103,2025,1,Sí,8,6,1,6,5,5,3,Sí,Satelital,Red pública,No,No
+T4-00306,185557,160202,2025,2,Sí,3,2,0,3,0,13,2,Sí,Satelital,Grupo electrógeno,No,No
+T4-00307,190070,240201,2025,1,Sí,4,2,1,2,0,3,0,No,Ninguno,Red pública,No,Sí
+T4-00308,192434,210106,2025,1,Sí,14,13,0,12,5,4,0,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00309,196575,160102,2025,2,Sí,0,0,0,0,0,0,1,No,Ninguno,Grupo electrógeno,No,No
+T4-00310,211755,160803,2025,1,Sí,3,1,1,2,0,9,0,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00311,215361,10502,2025,1,Sí,0,0,0,0,7,2,1,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00312,215617,10205,2025,1,Sí,4,3,1,2,0,8,3,Sí,Radioenlace,Panel solar,No,No
+T4-00313,221693,210103,2025,1,Sí,0,0,0,0,4,1,0,No,Ninguno,Panel solar,Sí,Sí
+T4-00314,221828,10503,2025,2,Sí,7,4,1,3,5,0,2,Sí,Satelital,Panel solar,No,No
+T4-00315,227848,160102,2025,1,Sí,0,0,0,0,4,0,3,Sí,Satelital,Grupo electrógeno,No,No
+T4-00316,230443,210402,2025,1,No,,,,,0,0,1,No,Ninguno,Red pública,Sí,Sí
+T4-00317,232786,160206,2025,1,Sí,0,0,0,0,0,0,0,No,Ninguno,Sin energía,No,No
+T4-00318,235248,210106,2025,1,No,,,,,0,0,0,No,Ninguno,Panel solar,No,No
+T4-00319,236835,250201,2025,2,No,,,,,0,0,2,Sí,Satelital,Red pública,No,No
+T4-00320,236902,10601,2025,1,Sí,0,0,0,0,5,1,4,Sí,4G / módem móvil,Panel solar,Sí,Sí
+T4-00321,240446,210103,2025,1,Sí,8,7,0,6,0,0,1,Sí,Satelital,Panel solar,No,Sí
+T4-00322,242722,250202,2025,1,Sí,9,7,1,5,5,7,3,Sí,Radioenlace,Panel solar,Sí,Sí
+T4-00323,250219,160113,2025,1,Sí,12,9,1,9,9,2,0,No,Ninguno,Sin energía,No,Sí
+T4-00324,256485,10502,2025,2,Sí,4,3,0,2,4,0,0,No,Ninguno,Red pública,Sí,No
+T4-00325,261157,210506,2025,1,Sí,14,13,1,10,5,0,3,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00326,261516,250203,2025,1,No,,,,,4,0,1,No,Ninguno,Sin energía,No,No
+T4-00327,263314,250202,2025,1,Sí,2,2,0,2,2,2,1,Sí,Radioenlace,Panel solar,Sí,No
+T4-00328,264641,240301,2025,1,Sí,6,3,2,5,0,6,0,No,Ninguno,Red pública,Sí,Sí
+T4-00329,273978,160801,2025,1,Sí,0,0,0,0,0,7,0,No,Ninguno,Red pública,Sí,No
+T4-00330,274607,240201,2025,1,Sí,5,4,0,3,0,0,0,No,Ninguno,Red pública,No,Sí
+T4-00331,282133,250301,2025,1,No,,,,,5,10,0,No,Ninguno,Red pública,Sí,No
+T4-00332,282569,160201,2025,1,Sí,11,8,1,6,0,0,3,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00333,283844,250304,2025,1,Sí,14,13,1,8,7,2,0,No,Ninguno,Red pública,No,No
+T4-00334,284727,160801,2025,2,Sí,0,0,0,0,6,16,3,Sí,Satelital,Panel solar,Sí,No
+T4-00335,285680,240202,2025,1,Sí,2,1,0,1,0,4,0,No,Ninguno,Red pública,No,Sí
+T4-00336,286973,210501,2025,1,Sí,0,0,0,0,0,16,0,No,Ninguno,Red pública,No,No
+T4-00337,289174,160102,2025,1,Sí,6,5,1,5,6,7,1,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00338,290615,210506,2025,1,No,,,,,0,0,0,No,Ninguno,Red pública,No,No
+T4-00339,302097,210501,2025,2,Sí,9,5,2,6,0,7,0,No,Ninguno,Red pública,No,No
+T4-00340,306201,10205,2025,1,No,,,,,0,0,0,No,Ninguno,Red pública,Sí,Sí
+T4-00341,307903,250102,2025,1,Sí,8,6,1,5,6,0,3,Sí,Satelital,Red pública,Sí,Sí
+T4-00342,308407,160804,2025,1,Sí,8,4,2,3,6,7,0,No,Ninguno,Red pública,Sí,No
+T4-00343,310111,160803,2025,1,Sí,5,3,1,2,3,9,0,No,Ninguno,Red pública,Sí,No
+T4-00344,311726,240201,2025,1,Sí,12,9,2,10,0,12,1,No,Ninguno,Sin energía,No,No
+T4-00345,313828,160801,2025,1,Sí,12,13,2,8,0,7,0,No,Ninguno,Red pública,No,Sí
+T4-00346,319208,250201,2025,1,Sí,3,2,1,2,0,0,3,Sí,Satelital,Sin energía,No,No
+T4-00347,320290,210506,2025,1,Sí,8,5,1,3,0,3,1,Sí,Satelital,Red pública,No,No
+T4-00348,328169,10601,2025,1,Sí,5,3,1,3,3,4,3,Sí,Radioenlace,Red pública,No,Sí
+T4-00349,330719,210506,2025,1,No,,,,,0,8,0,No,Ninguno,Red pública,No,No
+T4-00350,339712,250303,2025,1,Sí,4,3,0,2,0,5,1,No,Ninguno,Red pública,Sí,Sí
+T4-00351,342053,240202,2025,1,Sí,1,1,0,0,0,5,1,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00352,361207,160201,2025,1,Sí,0,0,0,0,0,0,5,Sí,Satelital,Red pública,No,Sí
+T4-00353,362338,160806,2025,1,Sí,6,4,1,3,0,4,2,Sí,Satelital,Red pública,Sí,No
+T4-00354,366369,10503,2025,1,Sí,0,0,0,0,5,4,0,No,Ninguno,Red pública,No,No
+T4-00355,369675,240105,2025,1,Sí,33,25,5,21,0,0,0,No,Ninguno,Red pública,Sí,No
+T4-00356,370769,250104,2025,1,Sí,0,0,0,0,12,5,2,Sí,Satelital,Sin energía,Sí,No
+T4-00357,378949,210105,2025,1,No,,,,,0,6,2,Sí,Radioenlace,Panel solar,Sí,No
+T4-00358,380629,250102,2025,1,Sí,5,4,0,3,0,2,4,Sí,4G / módem móvil,Panel solar,Sí,Sí
+T4-00359,385639,240104,2025,1,Sí,11,8,2,7,0,10,0,No,Ninguno,Panel solar,Sí,No
+T4-00360,385955,210106,2025,1,Sí,36,34,1,26,0,27,2,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00361,387215,250203,2025,2,No,,,,,6,11,0,No,Ninguno,Red pública,No,Sí
+T4-00362,391676,210807,2025,1,Sí,16,10,4,13,0,9,1,No,Ninguno,Red pública,No,No
+T4-00363,397470,250103,2025,1,Sí,2,1,1,1,11,0,1,Sí,Satelital,Panel solar,Sí,Sí
+T4-00364,408099,240301,2025,2,Sí,13,9,2,5,3,15,2,Sí,Radioenlace,Red pública,No,No
+T4-00365,411065,160803,2025,1,No,,,,,0,0,2,Sí,Radioenlace,Grupo electrógeno,No,Sí
+T4-00366,419731,250203,2025,1,No,,,,,0,9,1,Sí,Satelital,Grupo electrógeno,No,No
+T4-00367,420590,10201,2025,1,Sí,9,7,1,4,6,3,1,Sí,Radioenlace,Red pública,Sí,Sí
+T4-00368,424475,250304,2025,1,No,,,,,0,12,0,Sí,Fibra óptica,Red pública,No,No
+T4-00369,433803,10601,2025,2,Sí,42,38,3,19,6,36,3,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00370,441130,250104,2025,1,No,,,,,4,0,0,Sí,Radioenlace,Panel solar,No,No
+T4-00371,441214,210103,2025,1,Sí,2,1,0,1,0,2,1,Sí,Satelital,Sin energía,No,No
+T4-00372,442528,210105,2025,2,Sí,0,0,0,0,0,0,0,No,Ninguno,Panel solar,Sí,Sí
+T4-00373,445514,160806,2025,1,Sí,0,0,0,0,5,0,0,No,Ninguno,Sin energía,No,No
+T4-00374,447926,210105,2025,1,No,,,,,0,4,0,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00375,449072,250202,2025,1,No,,,,,0,13,1,No,Ninguno,Grupo electrógeno,No,No
+T4-00376,452438,10501,2025,1,Sí,2,2,0,1,0,6,4,Sí,Satelital,Panel solar,Sí,No
+T4-00377,452734,10501,2025,1,Sí,0,0,0,0,0,0,3,Sí,Radioenlace,Red pública,Sí,No
+T4-00378,457032,160113,2025,1,Sí,7,6,1,4,0,0,4,Sí,Fibra óptica,Panel solar,Sí,No
+T4-00379,465907,250204,2025,1,Sí,3,2,1,1,0,3,1,No,Ninguno,Panel solar,Sí,No
+T4-00380,466662,160113,2025,1,Sí,1,1,0,1,0,0,1,Sí,Radioenlace,Red pública,No,Sí
+T4-00381,468904,250304,2025,1,Sí,0,0,0,0,0,0,0,No,Ninguno,Red pública,Sí,Sí
+T4-00382,471342,10503,2025,1,Sí,0,0,0,0,4,1,0,No,Ninguno,Grupo electrógeno,No,No
+T4-00383,476536,250304,2025,2,Sí,20,13,3,16,4,9,1,No,Ninguno,Red pública,Sí,Sí
+T4-00384,480910,160113,2025,1,Sí,14,9,2,9,0,4,3,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00385,481060,240105,2025,1,Sí,14,12,1,9,4,4,0,Sí,Radioenlace,Red pública,No,No
+T4-00386,490586,10501,2025,1,Sí,1,1,0,1,0,9,1,Sí,Radioenlace,Sin energía,No,Sí
+T4-00387,499252,160803,2025,1,Sí,2,1,1,2,0,0,0,Sí,Satelital,Grupo electrógeno,Sí,Sí
+T4-00388,501838,250104,2025,1,Sí,10,8,1,6,0,1,5,Sí,Radioenlace,Red pública,No,Sí
+T4-00389,503894,240104,2025,1,Sí,0,0,0,0,0,9,1,Sí,4G / módem móvil,Red pública,No,Sí
+T4-00390,511124,250105,2025,1,No,,,,,0,0,0,No,Ninguno,Grupo electrógeno,Sí,Sí
+T4-00391,514117,160806,2025,1,Sí,3,2,0,1,7,1,0,No,Ninguno,Sin energía,No,No
+T4-00392,516459,250303,2025,1,Sí,11,10,1,8,0,0,0,No,Ninguno,Panel solar,No,No
+T4-00393,518627,10201,2025,1,Sí,22,17,3,16,0,0,1,No,Ninguno,Red pública,No,Sí
+T4-00394,527949,160206,2025,1,Sí,0,0,0,0,0,7,3,Sí,Satelital,Red pública,Sí,Sí
+T4-00395,528762,210105,2025,1,Sí,2,1,0,2,0,6,0,No,Ninguno,Red pública,No,No
+T4-00396,529223,210806,2025,1,Sí,7,5,1,5,0,0,3,No,Ninguno,Red pública,No,No
+T4-00397,530843,240202,2025,1,Sí,9,7,1,4,4,1,0,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00398,537050,250104,2025,1,Sí,0,0,0,0,1,5,0,No,Ninguno,Red pública,No,No
+T4-00399,537853,240105,2025,2,Sí,27,24,2,15,0,20,0,No,Ninguno,Red pública,Sí,Sí
+T4-00400,543206,10201,2025,2,Sí,21,20,1,19,9,0,5,Sí,Radioenlace,Red pública,Sí,Sí
+T4-00401,544063,160804,2025,1,Sí,9,7,1,5,0,4,3,Sí,Radioenlace,Red pública,No,No
+T4-00402,544264,160206,2025,2,Sí,0,0,0,0,0,0,1,No,Ninguno,Sin energía,No,Sí
+T4-00403,545150,10205,2025,1,No,,,,,10,2,3,Sí,Satelital,Panel solar,No,No
+T4-00404,545209,210806,2025,1,Sí,5,4,0,3,8,0,1,Sí,4G / módem móvil,Sin energía,Sí,Sí
+T4-00405,548180,10503,2025,1,Sí,0,0,0,0,4,1,0,No,Ninguno,Sin energía,No,Sí
+T4-00406,553054,160102,2025,1,Sí,3,3,0,2,5,4,6,Sí,Fibra óptica,Red pública,Sí,No
+T4-00407,557009,210402,2025,1,Sí,13,9,1,6,0,9,0,No,Ninguno,Red pública,No,No
+T4-00408,557761,210506,2025,2,Sí,0,0,0,0,0,0,0,No,Ninguno,Panel solar,No,No
+T4-00409,558876,250103,2025,2,Sí,20,17,2,8,0,27,2,Sí,No registra,Red pública,Sí,Sí
+T4-00410,559574,240105,2025,1,Sí,7,6,1,4,0,0,5,Sí,Radioenlace,Red pública,Sí,Sí
+T4-00411,571099,160103,2025,2,No,,,,,0,0,3,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00412,582301,10601,2025,1,No,,,,,2,0,4,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00413,584566,210807,2025,2,No,,,,,0,16,0,No,Ninguno,Red pública,Sí,No
+T4-00414,589470,160206,2025,1,Sí,12,7,2,8,0,0,1,Sí,4G / módem móvil,Grupo electrógeno,Sí,Sí
+T4-00415,591798,210103,2025,2,Sí,33,22,6,22,3,0,1,Sí,Radioenlace,Red pública,Sí,Sí
+T4-00416,596798,160103,2025,1,Sí,2,1,0,1,5,4,3,Sí,Radioenlace,Grupo electrógeno,No,Sí
+T4-00417,603544,10201,2025,1,No,,,,,10,2,5,Sí,Radioenlace,Red pública,Sí,Sí
+T4-00418,614454,160202,2025,1,Sí,0,0,0,0,0,2,0,No,Ninguno,Sin energía,No,Sí
+T4-00419,620413,250102,2025,2,Sí,32,23,6,12,5,15,2,Sí,Fibra óptica,Red pública,Sí,No
+T4-00420,623148,210105,2025,1,Sí,3,2,0,1,3,1,1,No,Ninguno,Grupo electrógeno,No,No
+T4-00421,627989,160501,2025,1,Sí,1,1,0,1,0,0,0,No,Ninguno,Panel solar,Sí,No
+T4-00422,628640,210401,2025,1,Sí,0,0,0,0,5,4,4,Sí,Fibra óptica,Panel solar,Sí,No
+T4-00423,638324,160113,2025,1,Sí,22,14,4,12,0,9,0,No,Ninguno,Red pública,No,No
+T4-00424,639251,210807,2025,1,Sí,3,3,0,2,0,0,1,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00425,639851,160806,2025,2,Sí,0,0,0,0,4,0,0,No,Ninguno,Grupo electrógeno,No,Sí
+T4-00426,646625,160803,2025,2,Sí,0,0,0,0,4,8,4,Sí,Satelital,Grupo electrógeno,No,No
+T4-00427,646850,160801,2025,1,Sí,4,3,0,3,5,0,0,No,Ninguno,Panel solar,No,Sí
+T4-00428,650312,250201,2025,1,Sí,12,8,2,11,0,0,6,Sí,Radioenlace,Grupo electrógeno,No,Sí
+T4-00429,661491,250301,2025,1,Sí,4,3,0,2,4,9,4,Sí,Satelital,Red pública,No,Sí
+T4-00430,662289,10201,2025,1,No,,,,,4,1,6,Sí,Radioenlace,Red pública,No,Sí
+T4-00431,668450,250204,2025,2,Sí,6,5,1,4,0,5,1,No,Ninguno,Panel solar,Sí,No
+T4-00432,679935,210806,2025,1,Sí,1,1,0,0,3,1,1,Sí,Radioenlace,Red pública,No,No
+T4-00433,680664,210501,2025,1,Sí,29,29,0,24,0,18,4,Sí,Radioenlace,Red pública,Sí,No
+T4-00434,681874,10502,2025,1,Sí,3,2,0,2,0,2,0,No,Ninguno,Sin energía,No,No
+T4-00435,683546,160501,2025,2,Sí,11,8,1,10,9,5,2,Sí,Radioenlace,Red pública,Sí,No
+T4-00436,703290,240301,2025,1,Sí,2,2,0,1,6,0,1,Sí,Radioenlace,Red pública,Sí,No
+T4-00437,704711,250103,2025,1,Sí,8,4,3,5,0,0,0,No,Ninguno,Red pública,No,No
+T4-00438,708023,240301,2025,1,No,,,,,6,3,3,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00439,708128,240304,2025,1,Sí,11,10,1,5,0,9,2,Sí,Fibra óptica,Red pública,Sí,No
+T4-00440,716125,160103,2025,1,Sí,3,3,0,2,0,6,4,Sí,4G / módem móvil,Panel solar,No,Sí
+T4-00441,723108,210105,2025,1,No,,,,,5,1,1,No,Ninguno,Red pública,No,Sí
+T4-00442,724395,250105,2025,1,Sí,0,0,0,0,0,0,1,No,Ninguno,Red pública,Sí,No
+T4-00443,733263,210106,2025,1,Sí,5,4,0,3,6,0,0,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00444,733558,210401,2025,1,Sí,8,7,0,6,0,0,4,Sí,4G / módem móvil,Red pública,No,Sí
+T4-00445,734906,210807,2025,1,No,,,,,0,5,3,Sí,4G / módem móvil,Red pública,No,No
+T4-00446,743256,210501,2025,1,No,,,,,4,1,0,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00447,746929,240304,2025,1,Sí,3,2,0,2,0,7,2,Sí,4G / módem móvil,Panel solar,No,Sí
+T4-00448,749653,10501,2025,2,Sí,4,2,1,3,3,6,1,Sí,Satelital,Panel solar,No,Sí
+T4-00449,751389,210506,2025,1,Sí,1,1,0,1,5,0,5,Sí,Satelital,Panel solar,Sí,Sí
+T4-00450,753938,210806,2025,1,No,,,,,0,0,5,Sí,Radioenlace,Red pública,No,No
+T4-00451,760674,160201,2025,1,No,,,,,0,9,0,No,Ninguno,Red pública,Sí,No
+T4-00452,762813,10205,2025,1,Sí,0,0,0,0,3,0,2,Sí,Radioenlace,Grupo electrógeno,Sí,No
+T4-00453,769599,250204,2025,1,Sí,4,3,1,3,0,3,3,Sí,Satelital,Red pública,No,No
+T4-00454,772153,210402,2025,1,Sí,0,0,0,0,0,3,0,Sí,Fibra óptica,Red pública,No,No
+T4-00455,786059,160201,2025,1,No,,,,,0,0,0,No,Ninguno,Red pública,No,No
+T4-00456,790753,160201,2025,1,Sí,0,0,0,0,0,0,5,Sí,Satelital,Red pública,No,Sí
+T4-00457,792594,250401,2025,1,Sí,0,0,0,0,2,2,2,Sí,Satelital,Red pública,No,No
+T4-00458,800598,210103,2025,1,Sí,0,0,0,0,6,0,0,No,Ninguno,Red pública,No,No
+T4-00459,802414,10205,2025,2,No,,,,,5,0,0,No,Ninguno,Red pública,Sí,Sí
+T4-00460,802549,160501,2025,1,No,,,,,0,10,0,No,Ninguno,Sin energía,No,No
+T4-00461,805258,250301,2025,1,No,,,,,0,7,5,Sí,Fibra óptica,Red pública,No,No
+T4-00462,810799,250204,2025,1,Sí,0,0,0,0,0,0,1,Sí,Radioenlace,Sin energía,Sí,Sí
+T4-00463,812654,250303,2025,1,No,,,,,0,0,3,Sí,Satelital,Panel solar,No,Sí
+T4-00464,815331,250202,2025,1,Sí,3,2,1,2,9,0,1,No,Ninguno,Sin energía,No,Sí
+T4-00465,825670,10101,2025,1,No,,,,,8,4,4,Sí,Satelital,Red pública,Sí,No
+T4-00466,837348,210501,2025,1,No,,,,,3,5,4,Sí,4G / módem móvil,Red pública,No,No
+T4-00467,837977,160202,2025,1,No,,,,,0,0,2,Sí,Radioenlace,Grupo electrógeno,Sí,Sí
+T4-00468,838099,250401,2025,2,Sí,5,3,1,2,0,3,0,No,Ninguno,Grupo electrógeno,Sí,Sí
+T4-00469,838835,10101,2025,1,Sí,7,5,1,4,10,4,3,Sí,4G / módem móvil,Red pública,Sí,No
+T4-00470,839974,10101,2025,1,No,,,,,2,0,0,No,Ninguno,Panel solar,No,Sí
+T4-00471,854220,250104,2025,2,Sí,47,34,5,38,5,24,3,Sí,Fibra óptica,Red pública,Sí,Sí
+T4-00472,855079,240202,2025,2,Sí,0,0,0,0,4,3,2,Sí,Satelital,Sin energía,Sí,No
+T4-00473,855485,250303,2025,2,Sí,0,0,0,0,2,14,2,Sí,Radioenlace,Sin energía,Sí,No
+T4-00474,856736,160202,2025,1,No,,,,,0,0,3,Sí,Satelital,Red pública,No,Sí
+T4-00475,859788,250301,2025,1,No,,,,,0,0,1,No,Ninguno,Red pública,No,No
+T4-00476,860742,10103,2025,1,Sí,0,0,0,0,4,0,0,No,Ninguno,Red pública,Sí,Sí
+T4-00477,863720,10501,2025,1,Sí,0,0,0,0,0,2,1,Sí,Radioenlace,Panel solar,Sí,Sí
+T4-00478,865939,10101,2025,2,Sí,16,12,2,12,0,0,0,No,Ninguno,Red pública,Sí,No
+T4-00479,868829,250201,2025,1,Sí,16,9,3,7,0,12,0,No,Ninguno,Red pública,No,No
+T4-00480,870317,210806,2025,2,Sí,9,6,2,5,0,3,0,No,Ninguno,Red pública,No,No
+T4-00481,873457,250105,2025,1,Sí,7,5,1,4,0,0,0,No,Ninguno,Grupo electrógeno,Sí,No
+T4-00482,876756,250304,2025,1,Sí,5,3,1,3,4,0,0,No,Ninguno,Red pública,No,Sí
+T4-00483,892028,160801,2025,1,No,,,,,5,1,0,No,Ninguno,Red pública,Sí,No
+T4-00484,895320,240105,2025,1,Sí,0,0,0,0,0,6,5,Sí,4G / módem móvil,Sin energía,Sí,Sí
+T4-00485,895438,160103,2025,1,No,,,,,0,0,2,No,Ninguno,Red pública,Sí,No
+T4-00486,897285,210401,2025,1,Sí,18,16,1,11,5,0,2,Sí,4G / módem móvil,Red pública,No,No
+T4-00487,902907,160202,2025,1,Sí,0,0,0,0,0,6,0,No,Ninguno,Panel solar,No,Sí
+T4-00488,906964,250204,2025,1,Sí,5,4,1,3,0,5,0,Sí,Satelital,Grupo electrógeno,No,Sí
+T4-00489,907877,250301,2025,2,Sí,23,22,0,19,2,7,0,No,Ninguno,Red pública,Sí,Sí
+T4-00490,910250,10103,2025,1,Sí,6,4,1,3,0,0,1,Sí,Satelital,Panel solar,Sí,Sí
+T4-00491,914506,210402,2025,1,Sí,0,0,0,0,2,0,0,No,Ninguno,Panel solar,No,Sí
+T4-00492,920386,210806,2025,1,No,,,,,6,9,0,Sí,Radioenlace,Panel solar,No,No
+T4-00493,928727,250105,2025,2,Sí,0,0,0,0,6,17,0,No,Ninguno,Red pública,No,No
+T4-00494,933560,160206,2025,1,No,,,,,5,0,2,Sí,Radioenlace,Red pública,No,No
+T4-00495,951921,250202,2025,2,No,,,,,0,0,1,Sí,4G / módem móvil,Grupo electrógeno,Sí,Sí
+T4-00496,958993,160803,2025,1,No,,,,,0,2,0,Sí,Satelital,Panel solar,No,Sí
+T4-00497,960039,10101,2025,1,Sí,8,6,1,4,6,0,2,Sí,4G / módem móvil,Grupo electrógeno,Sí,Sí
+T4-00498,962586,10201,2025,1,Sí,1,1,0,0,6,0,1,Sí,4G / módem móvil,Red pública,Sí,Sí
+T4-00499,965568,160804,2025,1,Sí,0,0,0,0,0,15,0,No,Ninguno,Panel solar,No,No
+T4-00500,969684,240304,2025,1,Sí,9,6,2,6,4,0,4,Sí,Satelital,Red pública,Sí,Sí
+T4-00501,974689,160804,2025,2,Sí,5,3,1,4,0,2,1,No,Ninguno,Sin energía,No,No
+T4-00502,982950,160206,2025,1,Sí,2,2,0,1,0,6,0,No,Ninguno,Panel solar,Sí,No
+T4-00503,983483,10502,2025,1,Sí,7,5,1,6,0,0,4,Sí,Satelital,Grupo electrógeno,No,No
+T4-00504,986842,210807,2025,1,Sí,29,27,1,22,0,0,2,Sí,Fibra óptica,Red pública,No,Sí
+T4-00505,992747,250103,2025,1,No,,,,,7,3,3,Sí,Satelital,Grupo electrógeno,No,No
+T4-00506,996125,210501,2025,1,Sí,2,2,0,1,4,8,0,No,Ninguno,Red pública,No,No

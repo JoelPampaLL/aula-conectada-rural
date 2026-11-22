@@ -1,0 +1,301 @@
+cod_modular,cod_local,nombre_ie,nivel,ubigeo,departamento,provincia,distrito,ugel,gradiente_ruralidad,latitud,longitud,altitud_msnm,distancia_capital_distrital_km,tiempo_acceso_horas,tipo_acceso,lengua_predominante,kit_aula_conectada
+0694382,962586,IE N.º 18588 Ramón Castilla,Primaria,010201,Amazonas,Bagua,Bagua,UGEL Bagua,Rural 1,-5.69492,-78.63876,377,9.0,0.4,Carretera asfaltada,Castellano,Sí
+1986249,543206,IE Ricardo Palma,Secundaria,010201,Amazonas,Bagua,Bagua,UGEL Bagua,Rural 1,-5.72952,-78.5336,455,4.4,0.4,Carretera afirmada,Castellano,No
+2736134,662289,IE N.º 18365 Nuestra Señora de Cocharcas,Primaria,010201,Amazonas,Bagua,Bagua,UGEL Bagua,Rural 1,-5.63904,-78.62297,387,23.1,1.0,Carretera afirmada,Castellano,Sí
+5334720,518627,IE Bellavista,Secundaria,010201,Amazonas,Bagua,Bagua,UGEL Bagua,Rural 1,-5.69767,-78.42905,365,12.6,0.6,Carretera afirmada,Castellano,No
+7972032,603544,IE N.º 18015 Ramón Castilla,Primaria,010201,Amazonas,Bagua,Bagua,UGEL Bagua,Rural 1,-5.6193,-78.58441,432,8.4,0.5,Carretera afirmada,Castellano,Sí
+8492761,543206,IE N.º 18959 Virgen de Fátima,Primaria,010201,Amazonas,Bagua,Bagua,UGEL Bagua,Rural 1,-5.72952,-78.5336,455,4.4,0.4,Carretera afirmada,No registra,Sí
+8745651,420590,IE N.º 17120 Cristo Rey,Primaria,010201,Amazonas,Bagua,Bagua,UGEL Bagua,Rural 1,-5.60995,-78.52775,425,8.1,0.6,Trocha carrozable,Castellano,Sí
+1441528,802414,IE Hermógenes Mejía Solf,Secundaria,010205,Amazonas,Bagua,Imaza,UGEL Bagua,Rural 3,-5.09463,-78.27426,282,48.1,4.5,Fluvial,Awajún,No
+1692314,215617,IE José Carlos Mariátegui,Secundaria,010205,Amazonas,Bagua,Imaza,UGEL Bagua,Rural 3,-5.15265,-78.30358,375,10.7,3.0,Camino de herradura,Awajún,Sí
+3294112,762813,IE N.º 16004 Cristo Rey,Primaria,010205,Amazonas,Bagua,Imaza,UGEL Bagua,Rural 3,-5.1441,-78.31789,312,77.1,5.3,Fluvial,Castellano,No
+5418648,545150,IE N.º 16989 Francisco Bolognesi,Primaria,010205,Amazonas,Bagua,Imaza,UGEL Bagua,Rural 3,-5.11505,-78.27703,317,31.2,2.4,Trocha carrozable,Awajún,No
+5441213,802414,IE N.º 17603 Ricardo Palma,Primaria,010205,Amazonas,Bagua,Imaza,UGEL Bagua,Rural 3,-5.09463,-78.27426,282,48.1,4.5,Fluvial,Awajún,No
+5452405,123193,IE N.º 17285 Pedro Paulet,Primaria,010205,Amazonas,Bagua,Imaza,UGEL Bagua,Rural 3,-5.17559,-78.4232,373,81.9,24.8,Camino de herradura,Awajún,No
+9287505,306201,IE N.º 17307 Santa María,Secundaria,010205,Amazonas,Bagua,Imaza,UGEL Bagua,Rural 2,-5.14318,-78.34133,335,45.8,3.6,Fluvial,Castellano,No
+0606284,181632,IE N.º 17694 César Vallejo,Primaria,010103,Amazonas,Chachapoyas,Balsas,UGEL Chachapoyas,Rural 2,-6.89349,-77.9792,969,11.1,2.7,Camino de herradura,Castellano,No
+1251335,071931,IE N.º 18973 Mariscal Cáceres,Primaria,010103,Amazonas,Chachapoyas,Balsas,UGEL Chachapoyas,Rural 1,-6.82219,-78.00627,915,4.0,0.3,Carretera asfaltada,Castellano,Sí
+3774120,860742,IE N.º 18077 Virgen de Fátima,Primaria,010103,Amazonas,Chachapoyas,Balsas,UGEL Chachapoyas,Rural 2,-6.75996,-78.11104,933,11.6,1.0,Trocha carrozable,Castellano,No
+5748058,071931,IE Jorge Basadre,Secundaria,010103,Amazonas,Chachapoyas,Balsas,UGEL Chachapoyas,Rural 1,-6.82219,-78.00627,915,4.0,0.3,Carretera asfaltada,Castellano,No
+6947869,910250,IE N.º 18224 Virgen de Fátima,Primaria,010103,Amazonas,Chachapoyas,Balsas,UGEL Chachapoyas,Rural 3,-6.84392,-77.93972,920,51.6,16.0,Camino de herradura,Castellano,No
+7589623,079793,IE Juan Velasco Alvarado,Secundaria,010103,Amazonas,Chachapoyas,Balsas,UGEL Chachapoyas,Rural 2,-6.74655,-77.89986,952,15.0,1.2,Trocha carrozable,Castellano,No
+0252472,098752,IE N.º 17610 Cristo Rey,Primaria,010101,Amazonas,Chachapoyas,Chachapoyas,UGEL Chachapoyas,Rural 1,-6.17201,-77.87947,2204,5.7,0.4,Carretera afirmada,Castellano,No
+5513676,865939,IE N.º 16202 Raúl Porras Barrenechea,Primaria,010101,Amazonas,Chachapoyas,Chachapoyas,UGEL Chachapoyas,Rural 1,-6.3191,-77.80701,2324,4.1,0.3,Carretera asfaltada,No registra,No
+6456632,960039,IE N.º 18657 José María Arguedas,Primaria,010101,Amazonas,Chachapoyas,Chachapoyas,UGEL Chachapoyas,Rural 2,-6.38107,-77.90683,2373,32.3,10.6,Camino de herradura,Castellano,Sí
+6878139,839974,IE N.º 16673 Santa Rosa,Primaria,010101,Amazonas,Chachapoyas,Chachapoyas,UGEL Chachapoyas,Rural 2,-6.23022,-77.85094,2388,28.3,1.1,Carretera afirmada,Castellano,No
+7513840,838835,IE N.º 16875 César Vallejo,Primaria,010101,Amazonas,Chachapoyas,Chachapoyas,UGEL Chachapoyas,Rural 1,-6.29,-77.88326,2338,6.7,0.3,Carretera asfaltada,Castellano,Sí
+7712960,865939,IE Santa Teresita,Secundaria,010101,Amazonas,Chachapoyas,Chachapoyas,UGEL Chachapoyas,Rural 1,-6.3191,-77.80701,2324,4.1,0.3,Carretera asfaltada,Castellano,No
+9932584,825670,IE N.º 16994 Andrés Avelino Cáceres,Primaria,010101,Amazonas,Chachapoyas,Chachapoyas,UGEL Chachapoyas,Rural 2,-6.2629,-77.88475,2344,33.2,2.2,Trocha carrozable,Castellano,Sí
+0013888,681874,IE N.º 17673 Inca Garcilaso de la Vega,Secundaria,010502,Amazonas,Condorcanqui,El Cenepa,UGEL Condorcanqui,Rural 3,-4.32297,-78.12536,263,103.8,8.7,Fluvial,Castellano,No
+0493806,256485,IE N.º 16383 Alfonso Ugarte,Primaria,010502,Amazonas,Condorcanqui,El Cenepa,UGEL Condorcanqui,Rural 3,-4.50486,-78.23559,257,67.6,4.5,Fluvial,Awajún,No
+4672144,983483,IE N.º 16931 Túpac Amaru,Primaria,010502,Amazonas,Condorcanqui,El Cenepa,UGEL Condorcanqui,Rural 3,-4.44202,-78.04997,310,38.5,3.1,Fluvial,Castellano,No
+6256709,215361,IE N.º 16234 Nuestra Señora de Cocharcas,Primaria,010502,Amazonas,Condorcanqui,El Cenepa,UGEL Condorcanqui,Rural 3,-4.34826,-78.19822,235,114.8,10.7,Fluvial,Castellano,No
+7818064,256485,IE Ramón Castilla,Secundaria,010502,Amazonas,Condorcanqui,El Cenepa,UGEL Condorcanqui,Rural 3,-4.50486,-78.23559,257,67.6,4.5,Fluvial,Awajún,No
+8473099,026783,IE N.º 18866 Ciro Alegría,Primaria,010502,Amazonas,Condorcanqui,El Cenepa,UGEL Condorcanqui,Rural 3,-4.46309,-78.08172,268,27.2,2.7,Fluvial,Awajún,Sí
+0510468,452734,IE N.º 17089 Víctor Raúl Haya de la Torre,Primaria,010501,Amazonas,Condorcanqui,Nieva,UGEL Condorcanqui,Rural 3,-4.60664,-77.78201,211,28.8,1.7,Trocha carrozable,Awajún,Sí
+1881803,039850,IE N.º 18570 Cristo Rey,Secundaria,010501,Amazonas,Condorcanqui,Nieva,UGEL Condorcanqui,Rural 3,-4.59111,-77.82699,219,134.7,11.3,Fluvial,Awajún,Sí
+4537678,749653,IE N.º 16768 Sagrado Corazón de Jesús,Primaria,010501,Amazonas,Condorcanqui,Nieva,UGEL Condorcanqui,Rural 3,-4.53017,-77.93573,257,65.1,4.8,Fluvial,Awajún,Sí
+5198000,452438,IE N.º 16350 José Olaya,Primaria,010501,Amazonas,Condorcanqui,Nieva,UGEL Condorcanqui,Rural 3,-4.67208,-78.02891,253,65.4,4.6,Trocha carrozable,Awajún,No
+6837129,863720,IE N.º 18311 Nueva Esperanza,Secundaria,010501,Amazonas,Condorcanqui,Nieva,UGEL Condorcanqui,Rural 3,-4.65029,-77.94566,200,218.5,18.3,Fluvial,Awajún,Sí
+7741701,749653,IE José María Arguedas,Secundaria,010501,Amazonas,Condorcanqui,Nieva,UGEL Condorcanqui,Rural 3,-4.53017,-77.93573,257,65.1,,Fluvial,Awajún,Sí
+8246511,490586,IE Bellavista,Secundaria,010501,Amazonas,Condorcanqui,Nieva,UGEL Condorcanqui,Rural 2,-4.73053,-77.8681,249,10.7,0.6,Carretera afirmada,Awajún,Sí
+1252618,059818,IE N.º 18845 Sagrado Corazón de Jesús,Primaria,010503,Amazonas,Condorcanqui,Río Santiago,UGEL Condorcanqui,Rural 3,-4.35459,-77.73807,231,12.0,1.0,Fluvial,Castellano,No
+3415948,221828,IE El Progreso,Secundaria,010503,Amazonas,Condorcanqui,Río Santiago,UGEL Condorcanqui,Rural 3,-4.15854,-77.72368,195,41.9,,Trocha carrozable,Awajún,Sí
+3628928,366369,IE N.º 18112 Los Andes,Primaria,010503,Amazonas,Condorcanqui,Río Santiago,UGEL Condorcanqui,Rural 3,-4.19954,-77.78556,233,9.6,0.9,Fluvial,Castellano,No
+3731987,471342,IE N.º 16530 San Pedro,Primaria,010503,Amazonas,Condorcanqui,Río Santiago,UGEL Condorcanqui,Rural 3,-4.25618,-77.73383,194,35.2,,Trocha carrozable,Awajún,No
+4499399,221828,IE N.º 17659 José María Arguedas,Primaria,010503,Amazonas,Condorcanqui,Río Santiago,UGEL Condorcanqui,Rural 3,-4.15854,-77.72368,195,41.9,2.7,Trocha carrozable,Awajún,No
+7137784,548180,IE N.º 18814 Ricardo Palma,Primaria,010503,Amazonas,Condorcanqui,Río Santiago,UGEL Condorcanqui,Rural 3,-4.1162,-77.73939,220,29.2,6.8,Camino de herradura,Awajún,No
+0342968,582301,IE N.º 16192 Hermógenes Mejía Solf,Primaria,010601,Amazonas,Utcubamba,Bagua Grande,UGEL Utcubamba,Rural 1,-5.80683,-78.35343,395,8.2,,Carretera afirmada,Castellano,No
+1235621,433803,IE N.º 17079 San Juan Bosco,Secundaria,010601,Amazonas,Utcubamba,Bagua Grande,UGEL Utcubamba,Rural 2,-5.7855,-78.39346,408,9.5,1.0,Fluvial,Castellano,Sí
+1438325,433803,IE N.º 16933 Los Pioneros,Primaria,010601,Amazonas,Utcubamba,Bagua Grande,UGEL Utcubamba,Rural 2,-5.7855,-78.39346,408,9.5,1.0,Fluvial,Castellano,Sí
+1951308,029108,IE N.º 18060 Mariano Melgar,Primaria,010601,Amazonas,Utcubamba,Bagua Grande,UGEL Utcubamba,Rural 1,-5.71498,-78.47437,443,12.2,0.6,Carretera afirmada,No registra,No
+4131098,236902,IE N.º 17108 Miguel Grau,Primaria,010601,Amazonas,Utcubamba,Bagua Grande,UGEL Utcubamba,Rural 2,-5.81154,-78.42314,445,43.4,2.9,Fluvial,Castellano,Sí
+4368716,328169,IE N.º 16400 El Progreso,Primaria,010601,Amazonas,Utcubamba,Bagua Grande,UGEL Utcubamba,Rural 2,-5.69903,-78.36554,444,49.8,4.5,Fluvial,Castellano,Sí
+8750521,048500,IE N.º 18151 Mariscal Cáceres,Secundaria,010601,Amazonas,Utcubamba,Bagua Grande,UGEL Utcubamba,Rural 1,-5.81182,-78.34323,427,3.3,0.3,Carretera asfaltada,Castellano,No
+1679182,837977,IE N.º 62549 San Francisco de Asís,Secundaria,160202,Loreto,Alto Amazonas,Balsapuerto,UGEL Alto Amazonas,Rural 3,-5.87338,-76.68392,222,76.6,4.9,Fluvial,Otra lengua originaria,No
+1913400,068580,IE N.º 62514 Ciro Alegría,Primaria,160202,Loreto,Alto Amazonas,Balsapuerto,UGEL Alto Amazonas,Rural 3,-5.74005,-76.59541,241,36.1,3.3,Fluvial,Otra lengua originaria,No
+3899834,185557,IE N.º 61971 José Carlos Mariátegui,Primaria,160202,Loreto,Alto Amazonas,Balsapuerto,UGEL Alto Amazonas,Rural 3,-5.75073,-76.55077,235,17.6,1.5,Fluvial,Otra lengua originaria,Sí
+4855128,902907,IE Rafael Belaúnde,Secundaria,160202,Loreto,Alto Amazonas,Balsapuerto,UGEL Alto Amazonas,Rural 3,-5.82479,-76.55459,213,32.7,3.1,Fluvial,Otra lengua originaria,No
+6889745,185557,IE Alfonso Ugarte,Secundaria,160202,Loreto,Alto Amazonas,Balsapuerto,UGEL Alto Amazonas,Rural 3,-5.75073,-76.55077,235,17.6,1.5,Fluvial,Otra lengua originaria,Sí
+7396845,856736,IE N.º 61608 Bellavista,Secundaria,160202,Loreto,Alto Amazonas,Balsapuerto,UGEL Alto Amazonas,Rural 2,-5.80257,-76.50431,184,7.9,0.9,Fluvial,No registra,Sí
+9374507,614454,IE N.º 60894 Bellavista,Primaria,160202,Loreto,Alto Amazonas,Balsapuerto,UGEL Alto Amazonas,Rural 3,-5.73531,-76.52961,170,36.0,2.2,Trocha carrozable,Castellano,No
+0026551,933560,IE N.º 62133 Simón Bolívar,Primaria,160206,Loreto,Alto Amazonas,Lagunas,UGEL Alto Amazonas,Rural 1,-5.20894,-75.71037,135,4.3,0.4,Carretera afirmada,Castellano,Sí
+1693469,589470,IE N.º 61076 Manuel Scorza,Primaria,160206,Loreto,Alto Amazonas,Lagunas,UGEL Alto Amazonas,Rural 2,-5.3013,-75.62789,170,15.4,1.4,Fluvial,Castellano,Sí
+5306708,544264,IE N.º 61492 Mariano Melgar,Primaria,160206,Loreto,Alto Amazonas,Lagunas,UGEL Alto Amazonas,Rural 2,-5.24766,-75.73007,120,29.2,2.0,Trocha carrozable,Otra lengua originaria,No
+5772818,232786,IE Andrés Avelino Cáceres,Secundaria,160206,Loreto,Alto Amazonas,Lagunas,UGEL Alto Amazonas,Rural 3,-5.2305,-75.68546,103,84.9,5.2,Trocha carrozable,Otra lengua originaria,No
+8510119,544264,IE N.º 62302 Nuestra Señora de Cocharcas,Secundaria,160206,Loreto,Alto Amazonas,Lagunas,UGEL Alto Amazonas,Rural 2,-5.24766,-75.73007,120,29.2,2.0,Trocha carrozable,Otra lengua originaria,No
+9235225,527949,IE N.º 60215 El Progreso,Secundaria,160206,Loreto,Alto Amazonas,Lagunas,UGEL Alto Amazonas,Rural 2,-5.13278,-75.62425,143,17.8,1.2,Trocha carrozable,Castellano,Sí
+9604457,982950,IE N.º 61353 Víctor Raúl Haya de la Torre,Secundaria,160206,Loreto,Alto Amazonas,Lagunas,UGEL Alto Amazonas,Rural 3,-5.22857,-75.63866,123,25.4,2.1,Fluvial,Castellano,No
+0226096,786059,IE N.º 61728 San Francisco de Asís,Secundaria,160201,Loreto,Alto Amazonas,Yurimaguas,UGEL Alto Amazonas,Rural 2,-5.95123,-76.01234,188,39.3,1.4,Carretera afirmada,Castellano,No
+1036909,138753,IE N.º 62027 Ricardo Palma,Primaria,160201,Loreto,Alto Amazonas,Yurimaguas,UGEL Alto Amazonas,Rural 2,-5.90082,-76.11509,162,26.1,1.0,Carretera afirmada,Castellano,No
+2627895,361207,IE N.º 61854 Jorge Basadre,Primaria,160201,Loreto,Alto Amazonas,Yurimaguas,UGEL Alto Amazonas,Rural 2,-6.12422,-76.07064,123,11.0,1.2,Fluvial,Castellano,Sí
+3294001,282569,IE Santa Rita,Secundaria,160201,Loreto,Alto Amazonas,Yurimaguas,UGEL Alto Amazonas,Rural 1,-5.93106,-76.07317,218,5.3,0.4,Carretera asfaltada,Castellano,Sí
+3652909,790753,IE N.º 61667 Francisco Bolognesi,Secundaria,160201,Loreto,Alto Amazonas,Yurimaguas,UGEL Alto Amazonas,Rural 3,-5.86192,-76.02081,174,129.6,7.7,Trocha carrozable,Otra lengua originaria,Sí
+5250025,138753,IE Santa Rosa,Secundaria,160201,Loreto,Alto Amazonas,Yurimaguas,UGEL Alto Amazonas,Rural 2,-5.90082,-76.11509,162,26.1,1.0,Carretera afirmada,Castellano,No
+8961332,760674,IE Señor de los Milagros,Secundaria,160201,Loreto,Alto Amazonas,Yurimaguas,UGEL Alto Amazonas,Rural 2,-5.88897,-76.09589,156,18.6,0.9,Carretera afirmada,Castellano,No
+0004988,639851,IE Raúl Porras Barrenechea,Secundaria,160806,Loreto,Datem del Marañón,Andoas,UGEL Datem del Marañón,Rural 3,-2.89389,-76.46913,198,25.3,1.7,Trocha carrozable,Castellano,No
+2140211,445514,IE N.º 62320 Simón Bolívar,Primaria,160806,Loreto,Datem del Marañón,Andoas,UGEL Datem del Marañón,Rural 3,-2.90488,-76.48731,165,57.2,3.6,Fluvial,Awajún,No
+2635535,065541,IE N.º 61541 Virgen de Fátima,Primaria,160806,Loreto,Datem del Marañón,Andoas,UGEL Datem del Marañón,Rural 3,-2.9378,-76.49805,194,16.9,1.4,Fluvial,Castellano,No
+3913222,362338,IE Mariano Melgar,Secundaria,160806,Loreto,Datem del Marañón,Andoas,UGEL Datem del Marañón,Rural 3,-2.96599,-76.50641,208,46.1,2.7,Trocha carrozable,Castellano,Sí
+4735475,514117,IE N.º 62817 José Olaya,Primaria,160806,Loreto,Datem del Marañón,Andoas,UGEL Datem del Marañón,Rural 3,-3.08841,-76.42821,191,48.4,2.9,Trocha carrozable,Awajún,No
+6418269,639851,IE N.º 61426 San Juan Bosco,Primaria,160806,Loreto,Datem del Marañón,Andoas,UGEL Datem del Marañón,Rural 3,-2.89389,-76.46913,198,25.3,1.7,Trocha carrozable,Castellano,No
+1470595,313828,IE N.º 62014 Pedro Paulet,Secundaria,160801,Loreto,Datem del Marañón,Barranca,UGEL Datem del Marañón,Rural 2,-4.91968,-76.52887,136,67.6,2.4,Carretera afirmada,Awajún,No
+2586728,284727,IE N.º 62374 Ramón Castilla,Primaria,160801,Loreto,Datem del Marañón,Barranca,UGEL Datem del Marañón,Rural 3,-4.85562,-76.52835,156,24.0,2.4,Fluvial,Castellano,Sí
+3313682,284727,IE Alfonso Ugarte,Secundaria,160801,Loreto,Datem del Marañón,Barranca,UGEL Datem del Marañón,Rural 3,-4.85562,-76.52835,156,24.0,2.4,Fluvial,Castellano,Sí
+3943448,168311,IE N.º 61261 Inca Garcilaso de la Vega,Primaria,160801,Loreto,Datem del Marañón,Barranca,UGEL Datem del Marañón,Rural 3,-4.82077,-76.61574,157,123.1,10.2,Fluvial,Awajún,Sí
+4995173,273978,IE Señor de los Milagros,Secundaria,160801,Loreto,Datem del Marañón,Barranca,UGEL Datem del Marañón,Rural 2,-4.86428,-76.58707,170,16.7,1.5,Fluvial,Castellano,No
+6372667,646850,IE N.º 61221 Simón Bolívar,Primaria,160801,Loreto,Datem del Marañón,Barranca,UGEL Datem del Marañón,Rural 3,-4.95404,-76.55796,164,17.6,1.3,Fluvial,Awajún,No
+6709614,892028,IE N.º 61568 El Progreso,Primaria,160801,Loreto,Datem del Marañón,Barranca,UGEL Datem del Marañón,Rural 3,-4.67774,-76.58159,183,28.8,2.3,Fluvial,Awajún,No
+0973894,499252,IE N.º 62612 San Martín de Porres,Primaria,160803,Loreto,Datem del Marañón,Manseriche,UGEL Datem del Marañón,Rural 3,-4.62931,-76.72623,178,61.0,2.7,Trocha carrozable,Otra lengua originaria,Sí
+2496345,211755,IE Amazonas,Secundaria,160803,Loreto,Datem del Marañón,Manseriche,UGEL Datem del Marañón,Rural 3,-4.64514,-76.74685,213,140.5,11.8,Fluvial,Awajún,No
+2778054,646625,IE N.º 62030 Nuestra Señora de Cocharcas,Primaria,160803,Loreto,Datem del Marañón,Manseriche,UGEL Datem del Marañón,Rural 3,-4.58738,-76.84164,145,49.8,3.6,Fluvial,Awajún,Sí
+3409136,958993,IE N.º 60014 Simón Bolívar,Primaria,160803,Loreto,Datem del Marañón,Manseriche,UGEL Datem del Marañón,Rural 3,-4.60839,-76.83409,150,81.5,6.0,Fluvial,Awajún,Sí
+4147901,411065,IE N.º 62041 Alfonso Ugarte,Secundaria,160803,Loreto,Datem del Marañón,Manseriche,UGEL Datem del Marañón,Rural 3,-4.55181,-76.71003,163,29.8,2.2,Fluvial,Awajún,No
+6698304,646625,IE N.º 61778 Juan Velasco Alvarado,Secundaria,160803,Loreto,Datem del Marañón,Manseriche,UGEL Datem del Marañón,Rural 3,-4.58738,-76.84164,145,49.8,3.6,Fluvial,Awajún,Sí
+8900355,310111,IE N.º 60326 Señor de los Milagros,Primaria,160803,Loreto,Datem del Marañón,Manseriche,UGEL Datem del Marañón,Rural 3,-4.62046,-76.82909,178,36.1,1.9,Trocha carrozable,Awajún,No
+2715777,048914,IE N.º 60176 César Vallejo,Primaria,160804,Loreto,Datem del Marañón,Morona,UGEL Datem del Marañón,Rural 3,-4.26188,-77.08335,214,100.5,7.5,Fluvial,Otra lengua originaria,Sí
+3983851,965568,IE N.º 61475 El Progreso,Secundaria,160804,Loreto,Datem del Marañón,Morona,UGEL Datem del Marañón,Rural 3,-4.21004,-76.88096,211,42.0,3.4,Fluvial,Awajún,No
+7435980,974689,IE N.º 61234 Cristo Rey,Secundaria,160804,Loreto,Datem del Marañón,Morona,UGEL Datem del Marañón,Rural 3,-4.19666,-77.05374,205,138.0,11.4,Fluvial,Otra lengua originaria,No
+8906603,974689,IE N.º 60504 Nueva Esperanza,Primaria,160804,Loreto,Datem del Marañón,Morona,UGEL Datem del Marañón,Rural 3,-4.19666,-77.05374,205,138.0,11.4,Fluvial,Otra lengua originaria,No
+9400810,308407,IE N.º 62171 Santa María,Primaria,160804,Loreto,Datem del Marañón,Morona,UGEL Datem del Marañón,Rural 2,-4.25625,-76.97066,208,17.2,1.5,Fluvial,Otra lengua originaria,No
+9686915,544063,IE N.º 60334 Alto Perú,Secundaria,160804,Loreto,Datem del Marañón,Morona,UGEL Datem del Marañón,Rural 2,-4.15469,-77.01022,198,10.3,0.6,Carretera afirmada,Castellano,Sí
+4782378,227848,IE N.º 61276 Ricardo Palma,Primaria,160102,Loreto,Maynas,Alto Nanay,UGEL Maynas,Rural 2,-3.98864,-73.46745,137,49.0,4.3,Fluvial,Castellano,No
+7572891,289174,IE N.º 62101 Bellavista,Primaria,160102,Loreto,Maynas,Alto Nanay,UGEL Maynas,Rural 2,-3.89558,-73.58272,118,6.5,0.8,Fluvial,No registra,Sí
+8043379,196575,IE N.º 60622 Ricardo Palma,Primaria,160102,Loreto,Maynas,Alto Nanay,UGEL Maynas,Rural 3,-3.8389,-73.5959,,26.5,1.9,Fluvial,Castellano,No
+8166616,553054,IE N.º 61979 César Vallejo,Primaria,160102,Loreto,Maynas,Alto Nanay,UGEL Maynas,Rural 1,-3.86014,-73.61437,125,12.1,0.7,Carretera afirmada,Castellano,Sí
+8412698,196575,IE N.º 60008 Mariano Melgar,Secundaria,160102,Loreto,Maynas,Alto Nanay,UGEL Maynas,Rural 3,-3.8389,-73.5959,71,26.5,1.9,Fluvial,Castellano,No
+9414691,059409,IE N.º 62056 César Vallejo,Primaria,160102,Loreto,Maynas,Alto Nanay,UGEL Maynas,Rural 1,-4.01403,-73.47846,82,4.5,0.3,Carretera asfaltada,Castellano,No
+2106915,571099,IE Bellavista,Secundaria,160103,Loreto,Maynas,Fernando Lores,UGEL Maynas,Rural 1,-4.15982,-73.10265,119,4.4,0.4,Carretera afirmada,Castellano,Sí
+3699711,895438,IE N.º 62047 Víctor Raúl Haya de la Torre,Primaria,160103,Loreto,Maynas,Fernando Lores,UGEL Maynas,Rural 2,-4.00167,-73.20725,118,37.9,2.1,Trocha carrozable,No registra,No
+4575581,139255,IE Horizonte,Secundaria,160103,Loreto,Maynas,Fernando Lores,UGEL Maynas,Rural 1,-3.94991,-73.2471,92,2.0,0.4,Trocha carrozable,Castellano,Sí
+4585912,596798,IE N.º 62006 Mariscal Cáceres,Primaria,160103,Loreto,Maynas,Fernando Lores,UGEL Maynas,Rural 2,-4.02485,-73.18795,116,14.1,1.2,Fluvial,Castellano,Sí
+5114476,716125,IE San Juan Bosco,Secundaria,160103,Loreto,Maynas,Fernando Lores,UGEL Maynas,Rural 2,-4.02268,-73.15951,57,28.5,2.8,Fluvial,Otra lengua originaria,Sí
+6108579,571099,IE N.º 60672 Nueva Esperanza,Primaria,160103,Loreto,Maynas,Fernando Lores,UGEL Maynas,Rural 1,-4.15982,-73.10265,119,4.4,0.4,Carretera afirmada,Castellano,Sí
+1721206,164178,IE N.º 60342 Jorge Basadre,Primaria,160113,Loreto,Maynas,San Juan Bautista,UGEL Maynas,Rural 1,-3.72124,-73.22145,90,5.0,0.4,Carretera afirmada,Castellano,Sí
+2196579,480910,IE San Francisco de Asís,Secundaria,160113,Loreto,Maynas,San Juan Bautista,UGEL Maynas,Rural 1,-3.69517,-73.29521,98,5.0,0.4,Carretera afirmada,Castellano,No
+5115527,638324,IE Amazonas,Secundaria,160113,Loreto,Maynas,San Juan Bautista,UGEL Maynas,Rural 1,-3.78409,-73.24404,104,15.9,0.7,Carretera afirmada,Castellano,No
+5350839,457032,IE N.º 61602 Amazonas,Primaria,160113,Loreto,Maynas,San Juan Bautista,UGEL Maynas,Rural 1,-3.72367,-73.29873,92,9.4,0.6,Carretera afirmada,Castellano,No
+6694600,466662,IE N.º 60009 José María Arguedas,Primaria,160113,Loreto,Maynas,San Juan Bautista,UGEL Maynas,Rural 1,-3.83444,-73.37886,127,7.0,0.6,Trocha carrozable,Castellano,Sí
+7980042,164178,IE Santa María,Secundaria,160113,Loreto,Maynas,San Juan Bautista,UGEL Maynas,Rural 1,-3.72124,-73.22145,90,5.0,0.4,Carretera afirmada,Castellano,Sí
+8979865,250219,IE N.º 62313 Pedro Paulet,Primaria,160113,Loreto,Maynas,San Juan Bautista,UGEL Maynas,Rural 2,-3.85744,-73.27844,98,27.5,1.0,Carretera afirmada,Castellano,No
+0536260,044817,IE N.º 61942 Santa María,Primaria,160501,Loreto,Requena,Requena,UGEL Requena,Rural 1,-5.17634,-73.88747,100,6.4,0.4,Carretera afirmada,Castellano,No
+2694518,023856,IE N.º 62321 Cristo Rey,Primaria,160501,Loreto,Requena,Requena,UGEL Requena,Rural 3,-5.12068,-73.79887,151,220.0,12.1,Trocha carrozable,Castellano,No
+2716561,683546,IE Horizonte,Secundaria,160501,Loreto,Requena,Requena,UGEL Requena,Rural 1,-4.96045,-73.84171,75,15.1,0.7,Carretera afirmada,Castellano,Sí
+3231270,802549,IE Santa Rita,Secundaria,160501,Loreto,Requena,Requena,UGEL Requena,Rural 2,-5.15481,-73.84807,103,18.0,1.3,Trocha carrozable,Castellano,No
+4073429,627989,IE N.º 61571 Andrés Avelino Cáceres,Secundaria,160501,Loreto,Requena,Requena,UGEL Requena,Rural 3,-5.00311,-73.87452,114,106.5,7.7,Fluvial,Castellano,No
+8613455,683546,IE N.º 61199 José Carlos Mariátegui,Primaria,160501,Loreto,Requena,Requena,UGEL Requena,Rural 1,-4.96045,-73.84171,75,15.1,0.7,Carretera afirmada,Castellano,Sí
+9559242,009393,IE N.º 62008 Santa Rita,Primaria,160501,Loreto,Requena,Requena,UGEL Requena,Rural 3,-5.09327,-73.82336,81,136.3,9.8,Fluvial,Castellano,No
+2492973,043780,IE N.º 70967 Ciro Alegría,Primaria,210402,Puno,Azángaro,Achaya,UGEL Azángaro,Rural 2,-15.13444,-70.21436,3829,32.9,8.4,Camino de herradura,Quechua,Sí
+3750681,557009,IE N.º 70987 Santa María,Secundaria,210402,Puno,Azángaro,Achaya,UGEL Azángaro,Rural 2,-15.04681,-70.13188,3885,12.2,0.6,Carretera afirmada,Quechua,No
+4149649,914506,IE N.º 72447 Hermógenes Mejía Solf,Primaria,210402,Puno,Azángaro,Achaya,UGEL Azángaro,Rural 3,-14.92199,-70.13168,3910,61.2,3.4,Trocha carrozable,Quechua,No
+4397858,107630,IE José María Arguedas,Secundaria,210402,Puno,Azángaro,Achaya,UGEL Azángaro,Rural 2,-15.05309,-70.16248,3755,48.1,1.9,Carretera afirmada,Quechua,Sí
+5042956,230443,IE N.º 70835 Santa Rosa,Primaria,210402,Puno,Azángaro,Achaya,UGEL Azángaro,Rural 3,-15.07931,-70.10685,3861,50.1,2.6,Trocha carrozable,Quechua,No
+9402122,772153,IE N.º 72203 Rosa de América,Primaria,210402,Puno,Azángaro,Achaya,UGEL Azángaro,Rural 1,-15.07271,-70.13891,3767,11.2,0.6,Carretera afirmada,Quechua,Sí
+9789149,043780,IE Víctor Raúl Haya de la Torre,Secundaria,210402,Puno,Azángaro,Achaya,UGEL Azángaro,Rural 2,-15.13444,-70.21436,3829,32.9,8.4,Camino de herradura,Quechua,Sí
+1111180,041515,IE N.º 72617 Rosa de América,Secundaria,210401,Puno,Azángaro,Azángaro,UGEL Azángaro,Rural 1,-14.90483,-70.14941,3818,3.9,0.4,Carretera afirmada,Castellano,Sí
+2976465,041515,IE N.º 70336 José Carlos Mariátegui,Primaria,210401,Puno,Azángaro,Azángaro,UGEL Azángaro,Rural 1,-14.90483,-70.14941,3818,3.9,0.4,Carretera afirmada,Castellano,Sí
+4577767,130068,IE N.º 70490 Ramón Castilla,Primaria,210401,Puno,Azángaro,Azángaro,UGEL Azángaro,Rural 2,-14.8875,-70.18697,3866,29.9,2.1,Trocha carrozable,Castellano,No
+4934512,628640,IE N.º 72491 Micaela Bastidas,Primaria,210401,Puno,Azángaro,Azángaro,UGEL Azángaro,Rural 1,-14.85641,-70.10308,3961,8.5,0.4,Carretera asfaltada,Quechua,No
+6701814,733558,IE N.º 72510 San Francisco de Asís,Secundaria,210401,Puno,Azángaro,Azángaro,UGEL Azángaro,Rural 1,-14.95915,-70.10403,3854,3.7,0.5,Trocha carrozable,Quechua,No
+8120277,127954,IE N.º 72955 Raúl Porras Barrenechea,Secundaria,210401,Puno,Azángaro,Azángaro,UGEL Azángaro,Rural 1,-14.93859,-70.19295,3801,3.8,0.4,Carretera afirmada,Quechua,No
+8830440,897285,IE N.º 70311 San Pedro,Primaria,210401,Puno,Azángaro,Azángaro,UGEL Azángaro,Rural 1,-14.86405,-70.24698,3851,9.9,0.8,Trocha carrozable,Quechua,Sí
+1064144,996125,IE N.º 70309 Bellavista,Primaria,210501,Puno,Huancané,Huancané,UGEL Huancané,Rural 1,-15.11457,-69.7351,3788,20.4,0.7,Carretera asfaltada,Aimara,No
+2091733,837348,IE N.º 70132 Ramón Castilla,Primaria,210501,Puno,Huancané,Huancané,UGEL Huancané,Rural 1,-15.10767,-69.79249,3813,5.3,0.3,Carretera asfaltada,Quechua,Sí
+5566658,286973,IE Raúl Porras Barrenechea,Secundaria,210501,Puno,Huancané,Huancané,UGEL Huancané,Rural 1,-15.08581,-69.77881,3850,6.3,0.4,Carretera asfaltada,Aimara,No
+5826194,302097,IE N.º 72169 San Francisco de Asís,Primaria,210501,Puno,Huancané,Huancané,UGEL Huancané,Rural 2,-15.27141,-69.77253,3895,17.1,4.8,Camino de herradura,Aimara,No
+7996205,302097,IE N.º 70395 Villa Hermosa,Secundaria,210501,Puno,Huancané,Huancané,UGEL Huancané,Rural 2,-15.27141,-69.77253,3895,17.1,4.8,Camino de herradura,Aimara,No
+8656229,743256,IE N.º 72684 Simón Bolívar,Primaria,210501,Puno,Huancané,Huancané,UGEL Huancané,Rural 2,-15.24034,-69.75154,3881,18.8,1.3,Trocha carrozable,Castellano,No
+8784833,680664,IE N.º 72708 José Carlos Mariátegui,Secundaria,210501,Puno,Huancané,Huancané,UGEL Huancané,Rural 1,-15.17263,-69.74002,3915,8.4,0.4,Carretera asfaltada,Aimara,No
+3253661,557761,IE Santa Rita,Secundaria,210506,Puno,Huancané,Rosaspata,UGEL Huancané,Rural 3,-14.9698,-69.76077,3917,54.3,17.4,Camino de herradura,Quechua,No
+3263497,751389,IE N.º 70165 César Vallejo,Primaria,210506,Puno,Huancané,Rosaspata,UGEL Huancané,Rural 3,-15.02881,-69.61568,3906,69.7,19.2,Camino de herradura,Quechua,Sí
+5511674,320290,IE Santa Rosa,Secundaria,210506,Puno,Huancané,Rosaspata,UGEL Huancané,Rural 2,-15.08866,-69.62976,3895,21.2,1.5,Trocha carrozable,Castellano,Sí
+5863071,290615,IE N.º 70451 El Progreso,Secundaria,210506,Puno,Huancané,Rosaspata,UGEL Huancané,Rural 3,-15.08047,-69.6753,3943,167.2,43.4,Camino de herradura,Aimara,No
+6091107,330719,IE N.º 70982 Amazonas,Secundaria,210506,Puno,Huancané,Rosaspata,UGEL Huancané,Rural 3,-15.03371,-69.7036,3799,111.0,36.8,Camino de herradura,Aimara,No
+6497214,557761,IE N.º 72483 Ricardo Palma,Primaria,210506,Puno,Huancané,Rosaspata,UGEL Huancané,Rural 3,-14.9698,-69.76077,3917,54.3,17.4,Camino de herradura,Quechua,No
+6772623,261157,IE N.º 70552 José Carlos Mariátegui,Primaria,210506,Puno,Huancané,Rosaspata,UGEL Huancané,Rural 1,-14.99465,-69.67064,3857,11.9,0.5,Carretera asfaltada,Quechua,Sí
+2349582,920386,IE N.º 72026 Hermógenes Mejía Solf,Primaria,210806,Puno,Melgar,Nuñoa,UGEL Melgar,Rural 2,-14.55521,-70.68776,4003,10.4,0.5,Carretera afirmada,Quechua,Sí
+2475712,753938,IE Simón Bolívar,Secundaria,210806,Puno,Melgar,Nuñoa,UGEL Melgar,Rural 1,-14.39594,-70.64552,3935,5.0,0.3,Carretera asfaltada,Quechua,Sí
+3780038,870317,IE N.º 70164 Ricardo Palma,Primaria,210806,Puno,Melgar,Nuñoa,UGEL Melgar,Rural 2,-14.64953,-70.63961,3967,17.0,1.3,Trocha carrozable,Castellano,No
+5537457,870317,IE San Pedro,Secundaria,210806,Puno,Melgar,Nuñoa,UGEL Melgar,Rural 2,-14.64953,-70.63961,3967,17.0,1.3,Trocha carrozable,Castellano,No
+8830419,529223,IE N.º 70917 Micaela Bastidas,Secundaria,210806,Puno,Melgar,Nuñoa,UGEL Melgar,Rural 2,-14.54678,-70.55457,3971,23.5,0.9,Carretera afirmada,Castellano,No
+9419236,679935,IE N.º 72694 Túpac Amaru,Primaria,210806,Puno,Melgar,Nuñoa,UGEL Melgar,Rural 2,-14.46822,-70.60284,3970,15.8,1.1,Trocha carrozable,Quechua,Sí
+9962875,545209,IE N.º 72975 Jorge Basadre,Primaria,210806,Puno,Melgar,Nuñoa,UGEL Melgar,Rural 2,-14.4701,-70.70311,3960,41.0,1.3,Carretera afirmada,Quechua,Sí
+1207476,584566,IE Francisco Bolognesi,Secundaria,210807,Puno,Melgar,Orurillo,UGEL Melgar,Rural 2,-14.7207,-70.482,3950,14.2,,Camino de herradura,Quechua,No
+1305968,391676,IE Inca Garcilaso de la Vega,Secundaria,210807,Puno,Melgar,Orurillo,UGEL Melgar,Rural 2,-14.74804,-70.50111,3892,14.2,1.0,Trocha carrozable,Quechua,No
+1782936,584566,IE N.º 70840 Los Andes,Primaria,210807,Puno,Melgar,Orurillo,UGEL Melgar,Rural 2,-14.7207,-70.482,3950,14.2,4.2,Camino de herradura,Quechua,No
+3960647,010406,IE N.º 72605 Santa Rita,Secundaria,210807,Puno,Melgar,Orurillo,UGEL Melgar,Rural 2,-14.73502,-70.54285,3974,41.8,1.6,Carretera afirmada,Quechua,Sí
+6702128,734906,IE N.º 70992 José Carlos Mariátegui,Secundaria,210807,Puno,Melgar,Orurillo,UGEL Melgar,Rural 2,-14.73544,-70.37687,3948,34.3,1.5,Carretera afirmada,Castellano,Sí
+6812856,639251,IE Ciro Alegría,Secundaria,210807,Puno,Melgar,Orurillo,UGEL Melgar,Rural 1,-14.74547,-70.47995,3813,8.4,0.4,Carretera asfaltada,Castellano,Sí
+8738825,986842,IE N.º 72415 Nueva Esperanza,Secundaria,210807,Puno,Melgar,Orurillo,UGEL Melgar,Rural 1,-14.67941,-70.55456,3927,18.8,0.8,Carretera afirmada,Quechua,Sí
+0853326,591798,IE San Pedro,Secundaria,210103,Puno,Puno,Amantaní,UGEL Puno,Rural 2,-15.71966,-69.76143,3813,30.9,2.3,Lacustre,Quechua,No
+1454441,441214,IE Santa Rosa,Secundaria,210103,Puno,Puno,Amantaní,UGEL Puno,Rural 3,-15.62644,-69.72578,3865,79.9,6.0,Lacustre,Quechua,Sí
+4013270,221693,IE N.º 70807 Santa María,Primaria,210103,Puno,Puno,Amantaní,UGEL Puno,Rural 3,-15.6899,-69.68745,3924,108.9,7.8,Lacustre,Quechua,No
+4020235,240446,IE N.º 70074 Andrés Avelino Cáceres,Secundaria,210103,Puno,Puno,Amantaní,UGEL Puno,Rural 3,-15.72105,-69.75996,3808,52.3,4.2,Lacustre,Quechua,Sí
+5835067,800598,IE N.º 72527 José Olaya,Primaria,210103,Puno,Puno,Amantaní,UGEL Puno,Rural 3,-15.72401,-69.67501,3817,80.9,6.2,Lacustre,Quechua,No
+8023808,591798,IE N.º 70692 San Francisco de Asís,Primaria,210103,Puno,Puno,Amantaní,UGEL Puno,Rural 2,-15.71966,-69.76143,3813,30.9,2.3,Lacustre,Quechua,No
+8406335,126864,IE Los Andes,Secundaria,210103,Puno,Puno,Amantaní,UGEL Puno,Rural 3,-15.61308,-69.72049,,39.6,2.8,Lacustre,Quechua,No
+2238224,378949,IE N.º 72372 San Juan Bosco,Primaria,210105,Puno,Puno,Capachica,UGEL Puno,Rural 1,-15.48604,-69.764,3756,8.6,0.4,Carretera asfaltada,Quechua,No
+5520776,442528,IE N.º 70516 Daniel Alcides Carrión,Primaria,210105,Puno,Puno,Capachica,UGEL Puno,Rural 3,-15.61016,-69.93522,3826,115.9,7.6,Trocha carrozable,Quechua,No
+5543773,447926,IE N.º 70879 Raúl Porras Barrenechea,Secundaria,210105,Puno,Puno,Capachica,UGEL Puno,Rural 2,-15.6399,-69.85729,3829,20.6,1.0,Carretera afirmada,Quechua,No
+5709145,528762,IE Daniel Alcides Carrión,Secundaria,210105,Puno,Puno,Capachica,UGEL Puno,Rural 2,-15.62117,-69.88964,3824,27.6,1.2,Carretera afirmada,Quechua,No
+7706137,723108,IE N.º 70541 Señor de los Milagros,Primaria,210105,Puno,Puno,Capachica,UGEL Puno,Rural 1,-15.6359,-69.83384,3950,14.4,0.5,Carretera asfaltada,Quechua,No
+7913240,623148,IE N.º 72595 Micaela Bastidas,Primaria,210105,Puno,Puno,Capachica,UGEL Puno,Rural 3,-15.64659,-69.85215,3828,49.6,13.4,Camino de herradura,Castellano,No
+8812454,442528,IE N.º 70866 Pedro Paulet,Secundaria,210105,Puno,Puno,Capachica,UGEL Puno,Rural 3,-15.61016,-69.93522,3826,115.9,7.6,Trocha carrozable,Quechua,No
+0443867,033012,IE San Lorenzo,Secundaria,210106,Puno,Puno,Chucuito,UGEL Puno,Rural 1,-15.94222,-69.84971,3815,3.6,0.3,Carretera afirmada,Aimara,Sí
+0499203,235248,IE Nuestra Señora de Cocharcas,Secundaria,210106,Puno,Puno,Chucuito,UGEL Puno,Rural 2,-15.87126,-69.87975,3823,23.7,1.2,Trocha carrozable,Castellano,No
+4174419,733263,IE N.º 70271 Pedro Paulet,Primaria,210106,Puno,Puno,Chucuito,UGEL Puno,Rural 1,-15.92527,-69.88959,3867,13.9,0.7,Carretera afirmada,Aimara,Sí
+4784475,192434,IE N.º 72289 Cristo Rey,Primaria,210106,Puno,Puno,Chucuito,UGEL Puno,Rural 1,-15.94771,-69.85246,3850,4.3,0.3,Carretera asfaltada,Aimara,No
+7312683,132969,IE N.º 70279 Túpac Amaru,Primaria,210106,Puno,Puno,Chucuito,UGEL Puno,Rural 2,-15.88449,-69.89302,3712,48.2,18.2,Camino de herradura,Aimara,Sí
+8428730,385955,IE N.º 72500 Mariscal Cáceres,Secundaria,210106,Puno,Puno,Chucuito,UGEL Puno,Rural 1,-15.8503,-69.90425,3850,15.9,0.7,Carretera afirmada,Aimara,Sí
+9969611,033012,IE N.º 70010 Francisco Bolognesi,Primaria,210106,Puno,Puno,Chucuito,UGEL Puno,Rural 1,-15.94222,-69.84971,3815,3.6,0.3,Carretera afirmada,Aimara,No
+0802339,285680,IE N.º 0137 San Martín de Porres,Primaria,240202,Tumbes,Contralmirante Villar,Casitas,UGEL Contralmirante Villar,Rural 2,-4.01737,-80.59854,109,38.8,1.7,Carretera afirmada,Castellano,No
+0832105,855079,IE N.º 0112 Rosa de América,Primaria,240202,Tumbes,Contralmirante Villar,Casitas,UGEL Contralmirante Villar,Rural 3,-4.05637,-80.61551,52,49.7,1.6,Carretera afirmada,Castellano,No
+4986466,342053,IE Señor de los Milagros,Secundaria,240202,Tumbes,Contralmirante Villar,Casitas,UGEL Contralmirante Villar,Rural 1,-3.92357,-80.67407,76,4.7,0.3,Carretera asfaltada,Castellano,Sí
+4990027,855079,IE Señor de los Milagros,Secundaria,240202,Tumbes,Contralmirante Villar,Casitas,UGEL Contralmirante Villar,Rural 3,-4.05637,-80.61551,52,49.7,1.6,Carretera afirmada,Castellano,No
+7709569,530843,IE N.º 0187 Andrés Avelino Cáceres,Primaria,240202,Tumbes,Contralmirante Villar,Casitas,UGEL Contralmirante Villar,Rural 2,-3.90583,-80.58673,48,29.0,2.2,Trocha carrozable,Castellano,Sí
+9672054,019911,IE Santa María,Secundaria,240202,Tumbes,Contralmirante Villar,Casitas,UGEL Contralmirante Villar,Rural 1,-3.9463,-80.54265,53,22.2,0.7,Carretera asfaltada,Castellano,No
+1182371,055933,IE N.º 0242 Juan Velasco Alvarado,Secundaria,240201,Tumbes,Contralmirante Villar,Zorritos,UGEL Contralmirante Villar,Rural 1,-3.57959,-80.67756,10,5.9,0.4,Carretera asfaltada,Castellano,Sí
+1792573,055933,IE N.º 0183 Jorge Basadre,Primaria,240201,Tumbes,Contralmirante Villar,Zorritos,UGEL Contralmirante Villar,Rural 1,-3.57959,-80.67756,10,5.9,0.4,Carretera asfaltada,Castellano,Sí
+4887649,274607,IE N.º 0300 Miguel Grau,Primaria,240201,Tumbes,Contralmirante Villar,Zorritos,UGEL Contralmirante Villar,Rural 1,-3.62645,-80.58593,57,13.2,0.5,Carretera asfaltada,Castellano,No
+5241431,311726,IE N.º 0327 Micaela Bastidas,Secundaria,240201,Tumbes,Contralmirante Villar,Zorritos,UGEL Contralmirante Villar,Rural 2,-3.57532,-80.71006,14,22.5,1.3,Trocha carrozable,Castellano,No
+7381388,165239,IE N.º 0256 Los Andes,Primaria,240201,Tumbes,Contralmirante Villar,Zorritos,UGEL Contralmirante Villar,Rural 1,-3.63969,-80.80236,40,9.3,0.6,Carretera afirmada,Castellano,Sí
+9099167,190070,IE Rosa de América,Secundaria,240201,Tumbes,Contralmirante Villar,Zorritos,UGEL Contralmirante Villar,Rural 1,-3.58482,-80.72849,2,8.8,0.6,Carretera afirmada,Castellano,No
+1861152,026587,IE N.º 0375 César Vallejo,Primaria,240104,Tumbes,Tumbes,Pampas de Hospital,UGEL Tumbes,Rural 2,-3.7029,-80.30932,29,25.0,1.0,Carretera afirmada,Castellano,Sí
+4499638,050216,IE N.º 0326 San Juan Bosco,Primaria,240104,Tumbes,Tumbes,Pampas de Hospital,UGEL Tumbes,Rural 2,-3.68319,-80.38716,35,22.3,1.0,Carretera afirmada,Castellano,No
+5079891,385639,IE N.º 0220 Rosa de América,Secundaria,240104,Tumbes,Tumbes,Pampas de Hospital,UGEL Tumbes,Rural 2,-3.82383,-80.35349,53,32.4,2.1,Trocha carrozable,Castellano,No
+7206535,503894,IE N.º 0394 Raúl Porras Barrenechea,Secundaria,240104,Tumbes,Tumbes,Pampas de Hospital,UGEL Tumbes,Rural 1,-3.61524,-80.45779,41,17.0,0.6,Carretera asfaltada,Castellano,Sí
+7588324,050216,IE N.º 0040 Santa Rosa,Secundaria,240104,Tumbes,Tumbes,Pampas de Hospital,UGEL Tumbes,Rural 2,-3.68319,-80.38716,35,22.3,1.0,Carretera afirmada,Castellano,No
+9585502,048971,IE Alto Perú,Secundaria,240104,Tumbes,Tumbes,Pampas de Hospital,UGEL Tumbes,Rural 1,-3.62695,-80.32054,39,18.1,0.6,Carretera asfaltada,Castellano,Sí
+1791767,369675,IE N.º 0391 César Vallejo,Secundaria,240105,Tumbes,Tumbes,San Jacinto,UGEL Tumbes,Rural 1,-3.44857,-80.51813,6,5.3,,Carretera asfaltada,Castellano,No
+5815134,537853,IE N.º 0390 José Olaya,Primaria,240105,Tumbes,Tumbes,San Jacinto,UGEL Tumbes,Rural 1,-3.49397,-80.44252,17,6.2,0.4,Carretera asfaltada,Castellano,No
+6213072,895320,IE N.º 0049 Simón Bolívar,Primaria,240105,Tumbes,Tumbes,San Jacinto,UGEL Tumbes,Rural 2,-3.64746,-80.49405,8,6.4,0.4,Carretera afirmada,Castellano,Sí
+6765118,537853,IE N.º 0317 José Carlos Mariátegui,Secundaria,240105,Tumbes,Tumbes,San Jacinto,UGEL Tumbes,Rural 1,-3.49397,-80.44252,17,6.2,0.4,Carretera asfaltada,Castellano,No
+8194572,559574,IE Inca Garcilaso de la Vega,Secundaria,240105,Tumbes,Tumbes,San Jacinto,UGEL Tumbes,Rural 1,-3.54537,-80.36867,63,4.1,0.3,Carretera asfaltada,Castellano,Sí
+8224638,481060,IE N.º 0346 San Francisco de Asís,Primaria,240105,Tumbes,Tumbes,San Jacinto,UGEL Tumbes,Rural 1,-3.53198,-80.36634,8,5.0,0.4,Trocha carrozable,Castellano,No
+1754211,030367,IE Señor de los Milagros,Secundaria,240304,Tumbes,Zarumilla,Papayal,UGEL Zarumilla,Rural 3,-3.66862,-80.41796,2,35.7,2.3,Trocha carrozable,Castellano,No
+3178523,969684,IE N.º 0382 San Juan Bosco,Primaria,240304,Tumbes,Zarumilla,Papayal,UGEL Zarumilla,Rural 2,-3.72161,-80.18592,2,15.5,1.1,Trocha carrozable,Castellano,No
+3531475,131668,IE N.º 0304 Raúl Porras Barrenechea,Primaria,240304,Tumbes,Zarumilla,Papayal,UGEL Zarumilla,Rural 1,-3.52767,-80.27541,24,8.8,0.4,Carretera asfaltada,Castellano,No
+3593964,746929,IE José Olaya,Secundaria,240304,Tumbes,Zarumilla,Papayal,UGEL Zarumilla,Rural 2,-3.57609,-80.25984,58,25.0,1.7,Trocha carrozable,Castellano,No
+4099010,708128,IE Manuel Scorza,Secundaria,240304,Tumbes,Zarumilla,Papayal,UGEL Zarumilla,Rural 1,-3.50888,-80.27629,40,5.9,0.6,Trocha carrozable,Castellano,No
+6629416,030367,IE N.º 0309 José Olaya,Primaria,240304,Tumbes,Zarumilla,Papayal,UGEL Zarumilla,Rural 3,-3.66862,-80.41796,2,35.7,2.3,Trocha carrozable,Castellano,Sí
+0445809,167556,IE N.º 0384 Rafael Belaúnde,Primaria,240301,Tumbes,Zarumilla,Zarumilla,UGEL Zarumilla,Rural 1,-3.43681,-80.3063,9,5.0,0.4,Carretera afirmada,Castellano,Sí
+3132857,703290,IE N.º 0325 José Olaya,Primaria,240301,Tumbes,Zarumilla,Zarumilla,UGEL Zarumilla,Rural 1,-3.58113,-80.26343,2,15.0,0.6,Carretera asfaltada,Castellano,Sí
+3434436,408099,IE N.º 0042 José Carlos Mariátegui,Primaria,240301,Tumbes,Zarumilla,Zarumilla,UGEL Zarumilla,Rural 1,-3.46115,-80.20009,30,7.4,0.5,Carretera afirmada,Castellano,Sí
+7804015,264641,IE N.º 0296 José Carlos Mariátegui,Primaria,240301,Tumbes,Zarumilla,Zarumilla,UGEL Zarumilla,Rural 1,-3.4655,-80.22373,32,6.7,0.4,Carretera afirmada,Castellano,No
+8065890,708023,IE N.º 0183 Mariscal Cáceres,Primaria,240301,Tumbes,Zarumilla,Zarumilla,UGEL Zarumilla,Rural 1,-3.369,-80.34468,14,12.3,0.5,Carretera asfaltada,Castellano,Sí
+9418599,408099,IE Pedro Paulet,Secundaria,240301,Tumbes,Zarumilla,Zarumilla,UGEL Zarumilla,Rural 1,-3.46115,-80.20009,30,7.4,0.5,Carretera afirmada,Castellano,Sí
+1088724,236835,IE N.º 64670 Virgen de Fátima,Primaria,250201,Ucayali,Atalaya,Raymondi,UGEL Atalaya,Rural 3,-10.77074,-73.71429,252,101.4,8.2,Fluvial,Asháninka,Sí
+1121284,868829,IE Alfonso Ugarte,Secundaria,250201,Ucayali,Atalaya,Raymondi,UGEL Atalaya,Rural 2,-10.71864,-73.75482,240,24.4,1.5,Trocha carrozable,Asháninka,No
+4373829,119274,IE N.º 64962 San Lorenzo,Primaria,250201,Ucayali,Atalaya,Raymondi,UGEL Atalaya,Rural 2,-10.72324,-73.71698,266,36.2,1.3,Carretera afirmada,Asháninka,No
+6242761,236835,IE N.º 64553 Los Andes,Secundaria,250201,Ucayali,Atalaya,Raymondi,UGEL Atalaya,Rural 3,-10.77074,-73.71429,252,101.4,8.2,Fluvial,Asháninka,Sí
+6618074,015041,IE N.º 64466 César Vallejo,Primaria,250201,Ucayali,Atalaya,Raymondi,UGEL Atalaya,Rural 1,-10.76848,-73.71597,234,7.3,0.5,Carretera afirmada,Asháninka,No
+8805543,650312,IE N.º 64958 Túpac Amaru,Secundaria,250201,Ucayali,Atalaya,Raymondi,UGEL Atalaya,Rural 2,-10.71633,-73.7079,239,41.3,3.6,Fluvial,Castellano,Sí
+9562759,319208,IE N.º 64690 Raúl Porras Barrenechea,Primaria,250201,Ucayali,Atalaya,Raymondi,UGEL Atalaya,Rural 2,-10.68235,-73.71962,211,17.6,1.2,Trocha carrozable,Castellano,No
+0783625,951921,IE N.º 64747 Andrés Avelino Cáceres,Secundaria,250202,Ucayali,Atalaya,Sepahua,UGEL Atalaya,Rural 2,-11.07779,-73.12206,310,23.4,1.6,Fluvial,Castellano,Sí
+2424007,951921,IE N.º 64953 Juan Velasco Alvarado,Primaria,250202,Ucayali,Atalaya,Sepahua,UGEL Atalaya,Rural 2,-11.07779,-73.12206,310,23.4,1.6,Fluvial,Castellano,Sí
+4204858,449072,IE N.º 64526 Jorge Basadre,Secundaria,250202,Ucayali,Atalaya,Sepahua,UGEL Atalaya,Rural 3,-11.08162,-72.97971,291,39.8,3.5,Fluvial,Castellano,No
+4295726,263314,IE N.º 64872 Nueva Esperanza,Primaria,250202,Ucayali,Atalaya,Sepahua,UGEL Atalaya,Rural 2,-11.12005,-73.06486,281,31.8,1.2,Carretera afirmada,Asháninka,Sí
+5071731,815331,IE N.º 64785 San Francisco de Asís,Primaria,250202,Ucayali,Atalaya,Sepahua,UGEL Atalaya,Rural 3,-11.18221,-73.04338,277,12.9,3.5,Camino de herradura,Otra lengua originaria,No
+8837729,242722,IE N.º 64875 Jorge Basadre,Primaria,250202,Ucayali,Atalaya,Sepahua,UGEL Atalaya,Rural 3,-11.14383,-72.9828,322,76.5,4.4,Trocha carrozable,Castellano,Sí
+0393193,127294,IE N.º 64883 Miguel Grau,Secundaria,250203,Ucayali,Atalaya,Tahuanía,UGEL Atalaya,Rural 2,-10.14793,-73.87711,186,13.3,0.9,Trocha carrozable,Asháninka,No
+3978309,419731,IE N.º 64593 Simón Bolívar,Primaria,250203,Ucayali,Atalaya,Tahuanía,UGEL Atalaya,Rural 3,-10.0592,-73.91353,194,45.2,2.9,Trocha carrozable,Asháninka,No
+4571969,033955,IE N.º 64346 Nuestra Señora de Cocharcas,Secundaria,250203,Ucayali,Atalaya,Tahuanía,UGEL Atalaya,Rural 2,-10.10773,-73.98128,274,30.7,1.8,Trocha carrozable,No registra,No
+4771657,387215,IE N.º 64784 Cristo Rey,Primaria,250203,Ucayali,Atalaya,Tahuanía,UGEL Atalaya,Rural 2,-10.07158,-73.95966,223,35.4,2.5,Trocha carrozable,Asháninka,No
+5059626,387215,IE N.º 64704 Pedro Paulet,Secundaria,250203,Ucayali,Atalaya,Tahuanía,UGEL Atalaya,Rural 2,-10.07158,-73.95966,223,35.4,2.5,Trocha carrozable,Asháninka,No
+8960980,261516,IE N.º 64682 César Vallejo,Primaria,250203,Ucayali,Atalaya,Tahuanía,UGEL Atalaya,Rural 3,-10.02036,-73.92648,241,114.6,10.3,Fluvial,Asháninka,No
+1586629,668450,IE N.º 64887 Santa María,Primaria,250204,Ucayali,Atalaya,Yurúa,UGEL Atalaya,Rural 3,-9.56214,-72.72179,216,109.9,29.1,Camino de herradura,Castellano,No
+2525758,906964,IE N.º 64374 El Progreso,Secundaria,250204,Ucayali,Atalaya,Yurúa,UGEL Atalaya,Rural 3,-9.65399,-72.78429,212,69.8,5.1,Trocha carrozable,Castellano,Sí
+6573337,810799,IE N.º 64949 Virgen de Fátima,Primaria,250204,Ucayali,Atalaya,Yurúa,UGEL Atalaya,Rural 3,-9.63086,-72.76976,261,62.8,4.4,Fluvial,Otra lengua originaria,Sí
+7910632,769599,IE N.º 64444 San Martín de Porres,Primaria,250204,Ucayali,Atalaya,Yurúa,UGEL Atalaya,Rural 3,-9.61022,-72.81699,276,94.1,23.9,Camino de herradura,Otra lengua originaria,No
+8001258,465907,IE N.º 64653 Bellavista,Secundaria,250204,Ucayali,Atalaya,Yurúa,UGEL Atalaya,Rural 3,-9.47572,-72.80357,273,72.6,6.3,Fluvial,Castellano,No
+8958045,668450,IE N.º 64452 Cristo Rey,Secundaria,250204,Ucayali,Atalaya,Yurúa,UGEL Atalaya,Rural 3,-9.56214,-72.72179,216,109.9,29.1,Camino de herradura,Castellano,No
+1457738,307903,IE N.º 64601 Alto Perú,Primaria,250102,Ucayali,Coronel Portillo,Campoverde,UGEL Coronel Portillo,Rural 2,-8.55461,-74.75555,217,15.8,1.1,Trocha carrozable,Castellano,Sí
+3878533,380629,IE N.º 64201 Los Andes,Secundaria,250102,Ucayali,Coronel Portillo,Campoverde,UGEL Coronel Portillo,Rural 1,-8.4544,-74.71198,210,10.3,0.6,Carretera afirmada,Castellano,No
+4447122,620413,IE Micaela Bastidas,Secundaria,250102,Ucayali,Coronel Portillo,Campoverde,UGEL Coronel Portillo,Rural 1,-8.53427,-74.82204,185,8.1,0.4,Carretera asfaltada,Otra lengua originaria,Sí
+5597739,620413,IE N.º 64611 Francisco Bolognesi,Primaria,250102,Ucayali,Coronel Portillo,Campoverde,UGEL Coronel Portillo,Rural 1,-8.53427,-74.82204,185,8.1,0.4,Carretera asfaltada,Otra lengua originaria,Sí
+7638812,102268,IE N.º 64596 Manuel Scorza,Secundaria,250102,Ucayali,Coronel Portillo,Campoverde,UGEL Coronel Portillo,Rural 1,-8.4688,-74.84209,189,9.0,0.9,Trocha carrozable,Castellano,No
+9537722,158020,IE N.º 64886 Señor de los Milagros,Primaria,250102,Ucayali,Coronel Portillo,Campoverde,UGEL Coronel Portillo,Rural 3,-8.46168,-74.84277,171,23.0,1.5,Trocha carrozable,Castellano,Sí
+0218035,992747,IE N.º 64235 José María Arguedas,Primaria,250103,Ucayali,Coronel Portillo,Iparía,UGEL Coronel Portillo,Rural 3,-9.27721,-74.46834,190,17.6,1.8,Fluvial,Shipibo-Konibo,No
+0549393,397470,IE N.º 64109 Virgen de Fátima,Primaria,250103,Ucayali,Coronel Portillo,Iparía,UGEL Coronel Portillo,Rural 3,-9.38503,-74.63537,162,58.0,4.8,Fluvial,Shipibo-Konibo,No
+2184388,027328,IE N.º 64838 César Vallejo,Primaria,250103,Ucayali,Coronel Portillo,Iparía,UGEL Coronel Portillo,Rural 3,-9.23942,-74.40659,155,29.7,2.7,Fluvial,Shipibo-Konibo,No
+4458567,704711,IE N.º 64035 Daniel Alcides Carrión,Secundaria,250103,Ucayali,Coronel Portillo,Iparía,UGEL Coronel Portillo,Rural 2,-9.27396,-74.34392,127,35.6,1.4,Carretera afirmada,Shipibo-Konibo,No
+4731222,558876,IE N.º 64105 Alfonso Ugarte,Secundaria,250103,Ucayali,Coronel Portillo,Iparía,UGEL Coronel Portillo,Rural 2,-9.30456,-74.4625,164,37.9,2.3,Trocha carrozable,Castellano,Sí
+7728493,167902,IE N.º 64514 Inca Garcilaso de la Vega,Primaria,250103,Ucayali,Coronel Portillo,Iparía,UGEL Coronel Portillo,Rural 3,-9.39719,-74.4388,163,10.6,1.1,Fluvial,Shipibo-Konibo,No
+8232650,558876,IE N.º 64885 Alto Perú,Primaria,250103,Ucayali,Coronel Portillo,Iparía,UGEL Coronel Portillo,Rural 2,-9.30456,-74.4625,164,37.9,2.3,Trocha carrozable,Castellano,Sí
+2674894,501838,IE N.º 64898 San Lorenzo,Secundaria,250104,Ucayali,Coronel Portillo,Masisea,UGEL Coronel Portillo,Rural 1,-8.6591,-74.42445,134,7.6,0.4,Carretera asfaltada,Castellano,Sí
+4865256,854220,IE N.º 64642 Pedro Paulet,Secundaria,250104,Ucayali,Coronel Portillo,Masisea,UGEL Coronel Portillo,Rural 1,-8.59774,-74.35833,132,13.2,0.5,Carretera asfaltada,Castellano,Sí
+5432152,370769,IE N.º 64332 Mariano Melgar,Primaria,250104,Ucayali,Coronel Portillo,Masisea,UGEL Coronel Portillo,Rural 3,-8.6717,-74.28385,192,43.3,3.5,Fluvial,Castellano,Sí
+5700790,854220,IE N.º 64895 Santa María,Primaria,250104,Ucayali,Coronel Portillo,Masisea,UGEL Coronel Portillo,Rural 1,-8.59774,-74.35833,132,13.2,0.5,Carretera asfaltada,Castellano,Sí
+6956615,537050,IE N.º 64458 César Vallejo,Primaria,250104,Ucayali,Coronel Portillo,Masisea,UGEL Coronel Portillo,Rural 2,-8.60774,-74.33834,205,22.9,2.0,Fluvial,Shipibo-Konibo,No
+6989816,441130,IE N.º 64493 San Lorenzo,Primaria,250104,Ucayali,Coronel Portillo,Masisea,UGEL Coronel Portillo,Rural 3,-8.68103,-74.23277,180,194.2,16.7,Fluvial,Castellano,Sí
+9720853,141834,IE N.º 64973 San Lorenzo,Secundaria,250104,Ucayali,Coronel Portillo,Masisea,UGEL Coronel Portillo,Rural 2,-8.58068,-74.2734,156,13.4,1.2,Fluvial,Shipibo-Konibo,No
+2450738,079661,IE N.º 64500 Micaela Bastidas,Primaria,250105,Ucayali,Coronel Portillo,Yarinacocha,UGEL Coronel Portillo,Rural 1,-8.35413,-74.67711,133,13.3,0.5,Carretera asfaltada,No registra,No
+6013589,928727,IE N.º 64477 Santa Teresita,Primaria,250105,Ucayali,Coronel Portillo,Yarinacocha,UGEL Coronel Portillo,Rural 2,-8.42342,-74.59733,142,6.5,0.4,Carretera afirmada,Shipibo-Konibo,No
+6499880,873457,IE Nuestra Señora de Cocharcas,Secundaria,250105,Ucayali,Coronel Portillo,Yarinacocha,UGEL Coronel Portillo,Rural 2,-8.31006,-74.62143,175,17.5,1.3,Fluvial,Shipibo-Konibo,No
+6622557,724395,IE El Progreso,Secundaria,250105,Ucayali,Coronel Portillo,Yarinacocha,UGEL Coronel Portillo,Rural 2,-8.39125,-74.61719,144,37.9,2.1,Trocha carrozable,Shipibo-Konibo,No
+7232319,069876,IE N.º 64145 José María Arguedas,Secundaria,250105,Ucayali,Coronel Portillo,Yarinacocha,UGEL Coronel Portillo,Rural 1,-8.28744,-74.60405,147,9.9,0.4,Carretera asfaltada,Castellano,No
+7280273,511124,IE Bellavista,Secundaria,250105,Ucayali,Coronel Portillo,Yarinacocha,UGEL Coronel Portillo,Rural 1,-8.36892,-74.54425,188,6.9,0.7,Trocha carrozable,Otra lengua originaria,No
+7706387,079661,IE N.º 64128 José María Arguedas,Secundaria,250105,Ucayali,Coronel Portillo,Yarinacocha,UGEL Coronel Portillo,Rural 1,-8.35413,-74.67711,133,13.3,0.5,Carretera asfaltada,Shipibo-Konibo,Sí
+9448412,928727,IE N.º 64672 Villa Hermosa,Secundaria,250105,Ucayali,Coronel Portillo,Yarinacocha,UGEL Coronel Portillo,Rural 2,-8.42342,-74.59733,142,6.5,0.4,Carretera afirmada,Shipibo-Konibo,No
+0031655,339712,IE N.º 64435 San Juan Bosco,Primaria,250303,Ucayali,Padre Abad,Curimaná,UGEL Padre Abad,Rural 2,-8.3588,-75.12212,263,16.2,1.1,Trocha carrozable,Castellano,No
+2170173,855485,IE N.º 64674 Nueva Esperanza,Secundaria,250303,Ucayali,Padre Abad,Curimaná,UGEL Padre Abad,Rural 2,-8.39701,-75.12778,234,15.2,0.7,Carretera afirmada,Otra lengua originaria,No
+3707490,855485,IE N.º 64887 Santa María,Primaria,250303,Ucayali,Padre Abad,Curimaná,UGEL Padre Abad,Rural 2,-8.39701,-75.12778,234,15.2,0.7,Carretera afirmada,Otra lengua originaria,Sí
+7091045,158612,IE Cristo Rey,Secundaria,250303,Ucayali,Padre Abad,Curimaná,UGEL Padre Abad,Rural 1,-8.30903,-75.10017,280,3.5,0.3,Carretera afirmada,Castellano,No
+8435095,812654,IE Manuel Scorza,Secundaria,250303,Ucayali,Padre Abad,Curimaná,UGEL Padre Abad,Rural 2,-8.39977,-75.25369,192,47.7,2.8,Trocha carrozable,Castellano,Sí
+9152926,516459,IE N.º 64154 San Francisco de Asís,Secundaria,250303,Ucayali,Padre Abad,Curimaná,UGEL Padre Abad,Rural 3,-8.3475,-75.14078,291,44.5,12.5,Camino de herradura,Castellano,No
+3119869,283844,IE N.º 64630 Cristo Rey,Primaria,250304,Ucayali,Padre Abad,Neshuya,UGEL Padre Abad,Rural 1,-8.5783,-75.05745,200,4.7,0.3,Carretera asfaltada,Castellano,No
+3579861,876756,IE N.º 64483 Pedro Paulet,Primaria,250304,Ucayali,Padre Abad,Neshuya,UGEL Padre Abad,Rural 2,-8.63251,-75.00039,206,39.5,1.6,Carretera afirmada,Castellano,No
+4880198,424475,IE N.º 64540 San Lorenzo,Primaria,250304,Ucayali,Padre Abad,Neshuya,UGEL Padre Abad,Rural 1,-8.72195,-74.98582,206,8.9,0.4,Carretera asfaltada,Castellano,Sí
+5301899,476536,IE Mariscal Cáceres,Secundaria,250304,Ucayali,Padre Abad,Neshuya,UGEL Padre Abad,Rural 1,-8.60398,-75.08379,216,6.6,0.4,Carretera afirmada,Castellano,No
+5809057,468904,IE N.º 64538 Alfonso Ugarte,Secundaria,250304,Ucayali,Padre Abad,Neshuya,UGEL Padre Abad,Rural 1,-8.49636,-75.05667,256,16.3,0.5,Carretera asfaltada,Otra lengua originaria,No
+8421258,476536,IE N.º 64860 Ciro Alegría,Primaria,250304,Ucayali,Padre Abad,Neshuya,UGEL Padre Abad,Rural 1,-8.60398,-75.08379,216,6.6,0.4,Carretera afirmada,Castellano,No
+0208226,859788,IE N.º 64924 San Martín de Porres,Secundaria,250301,Ucayali,Padre Abad,Padre Abad,UGEL Padre Abad,Rural 1,-9.01806,-75.56286,194,6.2,0.5,Carretera afirmada,Castellano,No
+1243473,907877,IE N.º 64508 Jorge Basadre,Primaria,250301,Ucayali,Padre Abad,Padre Abad,UGEL Padre Abad,Rural 1,-8.98708,-75.63839,261,7.5,0.4,Carretera asfaltada,Castellano,No
+5067830,282133,IE N.º 64388 Andrés Avelino Cáceres,Primaria,250301,Ucayali,Padre Abad,Padre Abad,UGEL Padre Abad,Rural 2,-9.09355,-75.52369,264,16.9,0.6,Carretera afirmada,No registra,No
+5401670,661491,IE N.º 64423 José Carlos Mariátegui,Primaria,250301,Ucayali,Padre Abad,Padre Abad,UGEL Padre Abad,Rural 2,-9.07643,-75.39641,267,49.5,2.0,Carretera afirmada,Castellano,Sí
+6096586,907877,IE Hermógenes Mejía Solf,Secundaria,250301,Ucayali,Padre Abad,Padre Abad,UGEL Padre Abad,Rural 1,-8.98708,-75.63839,261,7.5,0.4,Carretera asfaltada,Castellano,No
+7922468,805258,IE El Progreso,Secundaria,250301,Ucayali,Padre Abad,Padre Abad,UGEL Padre Abad,Rural 1,-8.9115,-75.47452,344,8.0,0.4,Carretera asfaltada,Castellano,No
+1007537,054350,IE N.º 64668 San Lorenzo,Secundaria,250401,Ucayali,Purús,Purús,UGEL Purús,Rural 3,-9.82917,-70.66286,239,105.0,6.7,Fluvial,Otra lengua originaria,No
+1420553,838099,IE El Progreso,Secundaria,250401,Ucayali,Purús,Purús,UGEL Purús,Rural 3,-9.71974,-70.73923,246,64.8,5.2,Fluvial,Castellano,No
+6163546,792594,IE N.º 64536 Horizonte,Primaria,250401,Ucayali,Purús,Purús,UGEL Purús,Rural 3,-9.77459,-70.78389,235,224.1,14.3,Trocha carrozable,Castellano,Sí
+9421621,838099,IE N.º 64720 Santa Teresita,Primaria,250401,Ucayali,Purús,Purús,UGEL Purús,Rural 3,-9.71974,-70.73923,246,64.8,5.2,Fluvial,Castellano,No
