@@ -585,11 +585,11 @@ def get_engine() -> Engine:
             except Exception as exc2:
                 engine_reintento.dispose()
                 raise RuntimeError(
-                    "No se pudo conectar a la base de datos PostgreSQL en Neon tras omitir channel_binding."
+                    f"Error real tras omitir channel_binding: {exc2}"
                 ) from exc2
         engine.dispose()
         raise RuntimeError(
-            "No se pudo establecer conexión con la base de datos PostgreSQL en Neon."
+            f"Error real de conexión en Neon: {exc}"
         ) from exc
 
 
